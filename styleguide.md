@@ -20,10 +20,15 @@ Standard horizontal breakpoints to be used for the media queries.
 - 480px
 - 600px  
 
+### Fonts
 
-### Site Font
+##### Logo font
 
-FF Enzo (webfont from Adobe TypeKit)
+FF Enzo
+
+##### Site Font
+
+Roboto
 
 Base scaling 1em: 12pt
 
@@ -38,3 +43,14 @@ Base scaling 1em: 12pt
   - 1em
   - Bold
   - Dark gray
+
+
+##### Icon Fonts
+
+Stars
+- icon-star
+  - 0xe802
+- icon-star-half
+  - 0xe800
+- icon-star-outline
+  - 0xe801

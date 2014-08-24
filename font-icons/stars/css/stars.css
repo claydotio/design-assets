@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'stars';
-  src: url('../font/stars.eot?16920334');
-  src: url('../font/stars.eot?16920334#iefix') format('embedded-opentype'),
-       url('../font/stars.woff?16920334') format('woff'),
-       url('../font/stars.ttf?16920334') format('truetype'),
-       url('../font/stars.svg?16920334#stars') format('svg');
+  src: url('../font/stars.eot?13273457');
+  src: url('../font/stars.eot?13273457#iefix') format('embedded-opentype'),
+       url('../font/stars.woff?13273457') format('woff'),
+       url('../font/stars.ttf?13273457') format('truetype'),
+       url('../font/stars.svg?13273457#stars') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'stars';
-    src: url('../font/stars.svg?16920334#stars') format('svg');
+    src: url('../font/stars.svg?13273457#stars') format('svg');
   }
 }
 */
@@ -50,6 +50,5 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-star-half:before { content: '\e800'; } /* '' */
-.icon-star-outline:before { content: '\e801'; } /* '' */
-.icon-star:before { content: '\e802'; } /* '' */
+.icon-star:before { content: '\e800'; } /* '' */
+.icon-star-half-fill:before { content: '\e801'; } /* '' */

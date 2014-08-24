@@ -49,8 +49,6 @@ Base scaling 1em: 12pt
 
 Stars
 - icon-star
-  - 0xe802
-- icon-star-half
   - 0xe800
-- icon-star-outline
+- icon-star-half-fill
   - 0xe801

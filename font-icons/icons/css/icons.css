@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'stars';
-  src: url('../font/stars.eot?13273457');
-  src: url('../font/stars.eot?13273457#iefix') format('embedded-opentype'),
-       url('../font/stars.woff?13273457') format('woff'),
-       url('../font/stars.ttf?13273457') format('truetype'),
-       url('../font/stars.svg?13273457#stars') format('svg');
+  font-family: 'icons';
+  src: url('../font/icons.eot?70921343');
+  src: url('../font/icons.eot?70921343#iefix') format('embedded-opentype'),
+       url('../font/icons.woff?70921343') format('woff'),
+       url('../font/icons.ttf?70921343') format('truetype'),
+       url('../font/icons.svg?70921343#icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +13,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'stars';
-    src: url('../font/stars.svg?13273457#stars') format('svg');
+    font-family: 'icons';
+    src: url('../font/icons.svg?70921343#icons') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "stars";
+  font-family: "icons";
   font-style: normal;
   font-weight: normal;
   speak: none;

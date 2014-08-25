@@ -48,7 +48,20 @@ Base scaling 1em: 12pt
 ##### Icon Fonts
 
 Stars
-- icon-star
-  - 0xe800
-- icon-star-half-fill
-  - 0xe801
+- 1.5em
+  - icon-star
+    - 0xe800
+    - Primary orange (highlighted), light gray
+  - icon-star-half-fill
+    - 0xe801
+    - Primary orange
+
+### Element Styling
+
+- Options bar shadow CSS  
+
+  ```
+  -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow:    0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+  box-shadow:         0px 2px 10px 0px rgba(0, 0, 0, 0.2);
+  ```

@@ -1,0 +1,38 @@
+{
+  "name": "icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "e2a888f57c8973619307c84c8c80b229",
+      "css": "star",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M386.4 669.8L585.4 789.8 532.7 563.5 708.3 411.2 476.8 391.4 386.4 178 296 391.4 64.4 411.2 240 563.4 187.4 789.6 386.4 669.8Z",
+        "width": 773
+      },
+      "search": [
+        "star"
+      ]
+    },
+    {
+      "uid": "851d8213ee35405921ea2d57f0e8a63d",
+      "css": "star-half-fill",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M386.7 179V670.1L386.4 669.8 187.4 789.6 240 563.4 64.4 411.2 296 391.4 386.4 178 386.7 179Z",
+        "width": 773
+      },
+      "search": [
+        "star-half-fill"
+      ]
+    }
+  ]
+}

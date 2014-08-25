@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 172 172" enable-background="new 0 0 172 172" xml:space="preserve">
+<g id="Rectangle_1_3_" enable-background="new    ">
+	<g id="Rectangle_1">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#262626" d="M141,5H31C16.6,5,5,16.6,5,31v110c0,14.4,11.6,26,26,26h110
+				c14.4,0,26-11.6,26-26V31C167,16.6,155.4,5,141,5z"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_1_2_" enable-background="new    ">
+	<g id="Rectangle_1_1_">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#262626" d="M140,8H32C18.7,8,8,18.7,8,32v108c0,13.3,10.7,24,24,24h108
+				c13.3,0,24-10.7,24-24V32C164,18.7,153.3,8,140,8z"/>
+		</g>
+	</g>
+</g>
+<g id="Rounded_Rectangle_1_3_" enable-background="new    ">
+	<g id="Rounded_Rectangle_1">
+		<g>
+			<path fill="#EDEDED" d="M123.4,41.8C115.6,29.3,101.8,21,86,21s-29.6,8.3-37.4,20.8C33.4,45.2,22,58.8,22,75
+				c0,18.8,15.2,34,34,34h60c18.8,0,34-15.2,34-34C150,58.8,138.6,45.2,123.4,41.8z"/>
+		</g>
+	</g>
+</g>
+<g id="Rounded_Rectangle_1_2_" enable-background="new    ">
+	<g id="Rounded_Rectangle_1_1_">
+		<g>
+			<path fill="#EDEDED" d="M120.9,45.4C114,33.2,101,25,86,25s-28,8.2-34.9,20.4C36.9,47.7,26,60.1,26,75c0,16.6,13.4,30,30,30h60
+				c16.6,0,30-13.4,30-30C146,60.1,135.1,47.7,120.9,45.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Buttons_1_" enable-background="new    ">
+	<g id="Buttons">
+		<g>
+			<path fill="#262626" d="M126,57c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4s4-1.8,4-4C130,58.8,128.2,57,126,57z M118,65c-2.2,0-4,1.8-4,4
+				c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4C121.9,66.8,120.1,65,118,65z M134.1,65c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4
+				C138,66.8,136.2,65,134.1,65z M126,73.1c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4s4-1.8,4-4C130,74.9,128.2,73.1,126,73.1z"/>
+		</g>
+	</g>
+</g>
+<g id="Left_1_" enable-background="new    ">
+	<g id="Left">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#262626" cx="70" cy="87" r="10"/>
+		</g>
+	</g>
+</g>
+<g id="Right_1_" enable-background="new    ">
+	<g id="Right">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#262626" cx="102" cy="87" r="10"/>
+		</g>
+	</g>
+</g>
+<g id="D-Pad_1_" enable-background="new    ">
+	<g id="D-Pad">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#262626" d="M54,65h-4v-4c0-2.2-1.8-4-4-4s-4,1.8-4,4v4h-4c-2.2,0-4,1.8-4,4
+				c0,2.2,1.8,4,4,4h4v4c0,2.2,1.8,4,4,4s4-1.8,4-4v-4h4c2.2,0,4-1.8,4-4C58,66.8,56.2,65,54,65z"/>
+		</g>
+	</g>
+</g>
+<g id="Play_Now">
+	<text transform="matrix(1.0018 0 0 1 34.8282 150.4331)" fill="#EDEDED" font-family="'Roboto-Bold'" font-size="21.4197">Play Now</text>
+</g>
+</svg>

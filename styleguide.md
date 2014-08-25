@@ -13,6 +13,13 @@ Light gray    | $grayLight | 757575 | 117, 117, 117
 
 See design mock-ups for the appropriate color labels for each element.
 
+### Logo
+*Previews coming soon*
+
+- logo_standard
+- logo_cloud
+- logo_alt (aka stacked)
+
 ### Breakpoints
 Standard horizontal breakpoints to be used for the media queries.
 - 320px

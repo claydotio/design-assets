@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 140 100" enable-background="new 0 0 140 100" xml:space="preserve">
+<g id="Rounded_Rectangle_1_3_" enable-background="new    ">
+	<g id="Rounded_Rectangle_1">
+		<g>
+			<path fill="#404040" d="M107.4,26.8C99.6,14.3,85.8,6,70,6s-29.6,8.3-37.4,20.8C17.4,30.2,6,43.8,6,60c0,18.8,15.2,34,34,34h60
+				c18.8,0,34-15.2,34-34C134,43.8,122.6,30.2,107.4,26.8z"/>
+		</g>
+	</g>
+</g>
+<g id="Rounded_Rectangle_1_2_" enable-background="new    ">
+	<g id="Rounded_Rectangle_1_1_">
+		<g>
+			<path fill="#EDEDED" d="M104.9,30.4C98,18.2,85,10,70,10s-28,8.2-34.9,20.4C20.9,32.7,10,45.1,10,60c0,16.6,13.4,30,30,30h60
+				c16.6,0,30-13.4,30-30C130,45.1,119.1,32.7,104.9,30.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Buttons_1_" enable-background="new    ">
+	<g id="Buttons">
+		<g>
+			<path fill="#404040" d="M110,42c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4C114,43.8,112.2,42,110,42z M102,50
+				c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4C105.9,51.8,104.1,50,102,50z M118.1,50c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4
+				c2.2,0,4-1.8,4-4C122,51.8,120.2,50,118.1,50z M110,58.1c-2.2,0-4,1.8-4,4c0,2.2,1.8,4,4,4c2.2,0,4-1.8,4-4
+				C114,59.9,112.2,58.1,110,58.1z"/>
+		</g>
+	</g>
+</g>
+<g id="Left_1_" enable-background="new    ">
+	<g id="Left">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#404040" cx="54" cy="72" r="10"/>
+		</g>
+	</g>
+</g>
+<g id="Right_1_" enable-background="new    ">
+	<g id="Right">
+		<g>
+			<circle fill-rule="evenodd" clip-rule="evenodd" fill="#404040" cx="86" cy="72" r="10"/>
+		</g>
+	</g>
+</g>
+<g id="D-Pad_1_" enable-background="new    ">
+	<g id="D-Pad">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#404040" d="M38,50h-4v-4c0-2.2-1.8-4-4-4s-4,1.8-4,4v4h-4c-2.2,0-4,1.8-4,4
+				c0,2.2,1.8,4,4,4h4v4c0,2.2,1.8,4,4,4s4-1.8,4-4v-4h4c2.2,0,4-1.8,4-4C42,51.8,40.2,50,38,50z"/>
+		</g>
+	</g>
+</g>
+</svg>

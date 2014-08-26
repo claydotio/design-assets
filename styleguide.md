@@ -16,7 +16,7 @@ See design mock-ups for the appropriate color labels for each element.
 ### Logo
 *Previews coming soon*  
 
-  /images/clay_logo
+  /images/logos
 
 - logo_standard
 - logo_cloud
@@ -25,14 +25,14 @@ See design mock-ups for the appropriate color labels for each element.
 ### Badges
 Can be used by developers on their own promo material to link to their games on Clay.  
 
-  /images/clay_badges
+  /images/badges
 
-- badge_gray
-- badge_gray_alt
-- badge_gray_mini
-- badge_orange
-- badge_orange_alt
-- badge_orange_mini
+- gray
+- gray_alt
+- gray_mini
+- orange
+- orange_alt
+- orange_mini
 
 ### Breakpoints
 Standard horizontal breakpoints to be used for the media queries.
@@ -45,21 +45,21 @@ Standard horizontal breakpoints to be used for the media queries.
 
 ##### Logo font
 
-FF Enzo
+FF Enzo Bold
 
 ##### Site Font
 
 Roboto
 
-Base scaling 1em: 12pt
+Base scaling 1rem: 10pt
 
 ##### Styles & Sizes
 - Button
-  - 1.33em
+  - 1.6rem
   - Bold
   - Primary orange, dark gray, or white (depending on state)  
 - Label
-  - 1em
+  - 1.2rem
   - Bold
   - Dark gray
 
@@ -67,7 +67,7 @@ Base scaling 1em: 12pt
 ##### Icon Fonts
 
 Stars
-- 1.5em
+- 1.8rem
   - icon-star
     - 0xe800
     - Primary orange (highlighted), light gray

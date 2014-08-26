@@ -14,11 +14,25 @@ Light gray    | $grayLight | 757575 | 117, 117, 117
 See design mock-ups for the appropriate color labels for each element.
 
 ### Logo
-*Previews coming soon*
+*Previews coming soon*  
+
+  /images/clay_logo
 
 - logo_standard
 - logo_cloud
 - logo_alt (aka stacked)
+
+### Badges
+Can be used by developers on their own promo material to link to their games on Clay.  
+
+  /images/clay_badges
+
+- badge_gray
+- badge_gray_alt
+- badge_gray_mini
+- badge_orange
+- badge_orange_alt
+- badge_orange_mini
 
 ### Breakpoints
 Standard horizontal breakpoints to be used for the media queries.
@@ -41,11 +55,9 @@ Base scaling 1em: 12pt
 
 ##### Styles & Sizes
 - Button
-  - 1.5em
+  - 1.33em
   - Bold
-  - Primary orange, dark gray, or white (depending on state)
-
-
+  - Primary orange, dark gray, or white (depending on state)  
 - Label
   - 1em
   - Bold
@@ -65,7 +77,7 @@ Stars
 
 ### Element Styling
 
-- Options bar shadow CSS  
+- Options bar drop shadow CSS  
 
   ```
   -webkit-box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.2);

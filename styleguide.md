@@ -1,15 +1,15 @@
 # Clay.io Design Style Guide
 
 ### Colors
-Name          | Code       | HEX    | RGB           | Sample
---------------|------------|--------|---------------|------------------------
-Primary Orange| $orange    | fcaa2f | 252, 170, 47  | <div style='background: #fcaa2f; width:100px; height: 100%; display: inline-block;'></div>
-Primary Blue  | $blue      | 67afe6 | 103, 175, 230 | <div style='background: #67afe6; width:100px; height: 100%; display: inline-block;'></div>
-Background    | $bgColor   | f2f2f2 | 242, 242, 242 | <div style='background: #f2f2f2; width:100px; height: 100%; display: inline-block;'></div>
-White         | $white     | ffffff | 255, 255, 255 | <div style='background: #ffffff; width:100px; height: 100%; display: inline-block;'></div>
-Black         | $black     | 000000 | 255, 255, 255 | <div style='background: #000000; width:100px; height: 100%; display: inline-block;'></div>
-Dark gray     | $grayDark  | 262626 | 38, 38, 38    | <div style='background: #262626; width:100px; height: 100%; display: inline-block;'></div>
-Light gray    | $grayLight | 757575 | 117, 117, 117 | <div style='background: #757575; width:100px; height: 100%; display: inline-block;'></div>
+Name          | Code       | HEX    | RGB
+--------------|------------|--------|--------------
+Primary Orange| $orange    | fcaa2f | 252, 170, 47
+Primary Blue  | $blue      | 67afe6 | 103, 175, 230
+Background    | $bgColor   | f2f2f2 | 242, 242, 242
+White         | $white     | ffffff | 255, 255, 255
+Black         | $black     | 000000 | 255, 255, 255
+Dark gray     | $grayDark  | 262626 | 38, 38, 38
+Light gray    | $grayLight | 757575 | 117, 117, 117
 
 See design mock-ups for the appropriate color labels for each element.
 

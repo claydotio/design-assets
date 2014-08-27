@@ -23,7 +23,7 @@ See design mock-ups for the appropriate color labels for each element.
 - logo_alt (aka stacked)
 
 ### Badges
-Can be used by developers on their promo material to link to their games on Clay. 
+Can be used by developers on their promo material to link to their games on Clay.
 
   /images/badges
 

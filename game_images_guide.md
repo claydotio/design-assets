@@ -9,7 +9,7 @@ List of promotional images to be uploaded by developers/publishers alongside the
 Large image to be used at the top of detail pages. Also known as a "cover," "header," or "hero" graphic.
 
 - Dimensions: 2560 x 640
-- Minimum safe zone (crop): 1138 x 640 (16:9)
+- Minimum safe zone (center crop): 1138 x 640 (16:9)
 - Optional: Yes
 
 ### Promo Image

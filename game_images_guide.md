@@ -25,3 +25,10 @@ Square icon to be used in the Marketplace listings, as well as on device home sc
 
 - Dimensions: 512 x 512
 - Optional: NO
+
+### Achievement Icons
+
+Square icons to correspond with achievements (if any).
+
+- Dimensions: 256 x 256
+- Optional: NO (if achievements are included)

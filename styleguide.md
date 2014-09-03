@@ -86,7 +86,7 @@ Ratings
     - Primary orange
 
 Swipe Bar
-- 2.4rem
+- 1.8rem
 - Primary Orange
   - icon-share
     - 0xe802

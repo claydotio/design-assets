@@ -7,7 +7,7 @@ Name          | Code       | HEX    | RGB
 Primary Orange| $orange    | fcaa2f | 252, 170, 47
 Primary Blue  | $blue      | 67afe6 | 103, 175, 230
 Background    | $bgColor   | f2f2f2 | 242, 242, 242
-Divider       | $          | e6e6e6 | 230, 230, 230
+Divider       | $divider   | e6e6e6 | 230, 230, 230
 Disabled      | $          | cccccc | 204, 204, 204
 White         | $white     | ffffff | 255, 255, 255
 Off white     | $          | f7f7f7 | 247, 247, 247

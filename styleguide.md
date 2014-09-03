@@ -95,7 +95,7 @@ Swipe Bar
   - icon-market
     - 0xe803  
 
-- 3.6rem
+- 2.4rem
   - icon-chevron-left
     - 0xe806
   - icon-chevron-right

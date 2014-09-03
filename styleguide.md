@@ -76,7 +76,7 @@ Base scaling 1rem: 10pt
 
 ##### Icon Fonts
 
-Stars
+Ratings
 - 1.8rem
   - icon-star
     - 0xe800
@@ -84,6 +84,32 @@ Stars
   - icon-star-half-fill
     - 0xe801
     - Primary orange
+
+Swipe Bar
+- 2.4rem
+- Primary Orange
+  - icon-share
+    - 0xe802
+  - icon-star
+    - 0xe800
+  - icon-market
+    - 0xe803  
+
+- 3.6rem
+  - icon-chevron-left
+    - 0xe806
+  - icon-chevron-right
+    - 0xe807  
+
+Navigation
+  - icon-back-arrow
+    - 3.2rem
+    - Primary orange
+    - 0xe804
+  - icon-close
+    - 2.4rem
+    - Light gray, white (if on colored bg)
+    - 0xe805  
 
 ### Element Styling
 

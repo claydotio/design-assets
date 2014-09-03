@@ -1,3 +1,9 @@
 
 .icon-star:before { content: '\e800'; } /* '' */
 .icon-star-half-fill:before { content: '\e801'; } /* '' */
+.icon-share:before { content: '\e802'; } /* '' */
+.icon-market:before { content: '\e803'; } /* '' */
+.icon-back-arrow:before { content: '\e804'; } /* '' */
+.icon-close:before { content: '\e805'; } /* '' */
+.icon-chevron-left:before { content: '\e806'; } /* '' */
+.icon-chevron-right:before { content: '\e807'; } /* '' */

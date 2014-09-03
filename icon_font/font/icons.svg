@@ -8,6 +8,12 @@
 <missing-glyph horiz-adv-x="1000" />
 <glyph glyph-name="star" unicode="&#xe800;" d="m386 180l199-120-52 227 175 152-231 20-91 213-90-213-232-20 176-152-53-227 199 120z" horiz-adv-x="773" />
 <glyph glyph-name="star-half-fill" unicode="&#xe801;" d="m387 671v-491l-1 0-199-120 53 227-176 152 232 20 90 213 1-1z" horiz-adv-x="773" />
+<glyph glyph-name="share" unicode="&#xe802;" d="m875 392l-292 291v-166c-291-42-416-250-458-459 104 146 250 213 458 213v-171l292 292z" horiz-adv-x="1000" />
+<glyph glyph-name="market" unicode="&#xe803;" d="m167 392h208v250h-208v-250z m0-292h208v250h-208v-250z m250 0h208v250h-208v-250z m250 0h208v250h-208v-250z m-250 292h208v250h-208v-250z m250 250v-250h208v250h-208z" horiz-adv-x="1000" />
+<glyph glyph-name="back-arrow" unicode="&#xe804;" d="m833 392h-508l233 233-58 58-333-333 333-333 58 58-233 233h508v84z" horiz-adv-x="1000" />
+<glyph glyph-name="close" unicode="&#xe805;" d="m500 767c-229 0-417-188-417-417s188-417 417-417c229 0 417 188 417 417s-188 417-417 417z m208-567l-58-58-150 150-150-150-58 58 150 150-150 150 58 58 150-150 150 150 58-58-150-150 150-150z" horiz-adv-x="1000" />
+<glyph glyph-name="chevron-left" unicode="&#xe806;" d="m496 498l-45 45-193-193 193-193 45 45-148 148 148 148z" horiz-adv-x="773" />
+<glyph glyph-name="chevron-right" unicode="&#xe807;" d="m322 543l-45-45 148-148-148-148 45-45 193 193-193 193z" horiz-adv-x="773" />
 </font>
 </defs>
 </svg>

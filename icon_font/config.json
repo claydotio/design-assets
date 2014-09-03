@@ -7,7 +7,7 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "e2a888f57c8973619307c84c8c80b229",
+      "uid": "7bb069669dccdb20bf4c4892624d9f19",
       "css": "star",
       "code": 59392,
       "src": "custom_icons",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "uid": "851d8213ee35405921ea2d57f0e8a63d",
+      "uid": "86e8c978209d211a6a0ed56b70dfe784",
       "css": "star-half-fill",
       "code": 59393,
       "src": "custom_icons",
@@ -32,6 +32,90 @@
       },
       "search": [
         "star-half-fill"
+      ]
+    },
+    {
+      "uid": "dda2d7e85c27b2bc53ea898ec7bf3c32",
+      "css": "share",
+      "code": 59394,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M875 458.3L583.3 166.7V333.3C291.7 375 166.7 583.3 125 791.7 229.2 645.8 375 579.2 583.3 579.2V750L875 458.3Z",
+        "width": 1000
+      },
+      "search": [
+        "share"
+      ]
+    },
+    {
+      "uid": "c18afc5a9d80572c2770195bb9533f32",
+      "css": "market",
+      "code": 59395,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M166.7 458.3H375V208.3H166.7V458.3ZM166.7 750H375V500H166.7V750ZM416.7 750H625V500H416.7V750ZM666.7 750H875V500H666.7V750ZM416.7 458.3H625V208.3H416.7V458.3ZM666.7 208.3V458.3H875V208.3H666.7Z",
+        "width": 1000
+      },
+      "search": [
+        "market"
+      ]
+    },
+    {
+      "uid": "e2987eae1ccbb31a43454ecd7b752157",
+      "css": "back-arrow",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M833.3 458.3H325L558.3 225 500 166.7 166.7 500 500 833.3 558.3 775 325 541.7H833.3V458.3Z",
+        "width": 1000
+      },
+      "search": [
+        "back-arrow"
+      ]
+    },
+    {
+      "uid": "da44acfbe3ccac936622ccbb6bc525f1",
+      "css": "close",
+      "code": 59397,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 83.3C270.8 83.3 83.3 270.8 83.3 500S270.8 916.7 500 916.7C729.2 916.7 916.7 729.2 916.7 500S729.2 83.3 500 83.3ZM708.3 650L650 708.3 500 558.3 350 708.3 291.7 650 441.7 500 291.7 350 350 291.7 500 441.7 650 291.7 708.3 350 558.3 500 708.3 650Z",
+        "width": 1000
+      },
+      "search": [
+        "close"
+      ]
+    },
+    {
+      "uid": "8f8be9d9c4481a588ced0f68a140866e",
+      "css": "chevron-left",
+      "code": 59398,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M495.8 351.9L450.8 306.8 257.6 500 450.8 693.2 495.8 648.1 347.7 500 495.8 351.9Z",
+        "width": 773
+      },
+      "search": [
+        "chevron-left"
+      ]
+    },
+    {
+      "uid": "0ec0804f70f89182b4643fc8fe3452b0",
+      "css": "chevron-right",
+      "code": 59399,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M322 306.8L276.9 351.9 425 500 276.9 648.1 322 693.2 515.2 500 322 306.8Z",
+        "width": 773
+      },
+      "search": [
+        "chevron-right"
       ]
     }
   ]

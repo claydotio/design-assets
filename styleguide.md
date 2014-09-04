@@ -108,7 +108,7 @@ Rate Modal
     - Primary orange (selected), Light gray (deselected)
 
 Navigation
-  - icon-back-arrow
+  - icon-back-arrowv
     - 3.2rem
     - Primary orange
     - 0xe804
@@ -131,6 +131,12 @@ box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.04)
   opacity: 0.75;
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
 
+  ```
+
+- Modal drop shadow
+
+  ```
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
   ```
 
 - Modal/buttons corner radii: 3px

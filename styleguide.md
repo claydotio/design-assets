@@ -101,6 +101,12 @@ Swipe Bar
   - icon-chevron-right
     - 0xe807  
 
+Rate Modal
+  - icon-star
+    - 5.6rem
+    - 0xe800
+    - Primary orange (selected), Light gray (deselected)
+
 Navigation
   - icon-back-arrow
     - 3.2rem
@@ -119,4 +125,14 @@ Navigation
 box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.04)
   ```
 
+- Close button drop shadow CSS
+
+  ```
+  opacity: 0.75;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+
+  ```
+
 - Modal/buttons corner radii: 3px
+
+- Dark overlay opacity: 70%

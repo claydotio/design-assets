@@ -129,7 +129,7 @@ box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.04)
 
   ```
   opacity: 0.75;
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
 
   ```
 

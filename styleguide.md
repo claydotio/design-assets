@@ -113,7 +113,7 @@ Navigation
     - Primary orange
     - 0xe804
   - icon-close
-    - 2.4rem
+    - 1.8rem
     - Light gray, white (if on colored bg)
     - 0xe805  
 

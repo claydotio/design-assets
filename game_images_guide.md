@@ -32,3 +32,36 @@ Square icons to correspond with achievements (if any).
 
 - Dimensions: 256 x 256
 - Optional: NO (if achievements are included)
+
+# Current standards on other platforms
+
+### Chrome Marketplace
+
+Icon: 128x128
+Screenshots: 1280x800, 640x400  
+Promotional images:
+
+  - Small: 440x280
+  - Large: 920x680
+  - Marquee: 1400x560
+
+### Firefox
+
+  - Icon: 128, 64, 32 (+ you can specify many icons)  
+  - Screenshots: At least 320x480
+
+### Android
+
+  - Icon: 512x512
+  - Screenshots: min 320px, max 3840px
+  - Feature Graphic: 1024x500
+  - Promo Graphic: 180x120
+  - + Promo video (youtube url)
+
+### Facebook
+
+  - Icon: 1024x1024
+  - Banner: 1200x627
+  - Cover: 800x150
+  - Hero: 1848x682
+  - Web Banner: 155x100

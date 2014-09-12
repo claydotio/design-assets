@@ -2,8 +2,8 @@
 
 ### Colors
 
-Name          | Code       | HEX    | RGB
---------------|------------|--------|--------------
+Name              | Code       | HEX    | RGB
+------------------|------------|--------|--------------
 Primary Orange    | $orange    | fcaa2f | 252, 170, 47
 Primary Blue      | $blue      | 67afe6 | 103, 175, 230
 Background        | $bgColor   | f2f2f2 | 242, 242, 242

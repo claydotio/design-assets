@@ -3,20 +3,20 @@
 ## Contents  
 
 ### 1. Branding
-  1. Colors
-  2. Logos
-  3. Badges
+  1. [Colors](#colors)
+  2. [Logos](#logos)
+  3. [Badges](#badges)
 
 ### 2. Site Styling
-  1. Fonts
-  2. Element styling
-  3. Breakpoints
+  1. [Fonts](#fonts)
+  2. [Element styling](#elements)
+  3. [Breakpoints](#breaks)
 
 ---
 
 ## 1. Branding
 
-### 1.1 Colors
+### 1.1 Colors <a name="colors"></a>
 _Branding colors_  
 
 Name              | Code       | HEX    | RGB           | Color
@@ -41,7 +41,7 @@ Near white        | $          | f7f7f7 | 247, 247, 247 | ![Alt text](https://gi
 Disabled gray     | $          | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
 Divider           | $divider   | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
 
-### 1.2 Logos
+### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  
 
 _Note: linked images below are reference only._
@@ -52,7 +52,7 @@ logo_standard     | ![Alt text](https://github.com/claydotio/design-assets/blob/
 logo_cloud        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_alt.png)
 logo_alt          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_cloud.png)  
 
-### 1.3 Badges
+### 1.3 Badges <a name="badges"></a>
 Can be used by on promotional material or to link to games  
 
 _Note: linked images below are reference only._  
@@ -70,7 +70,7 @@ orange_mini   | ![Alt text](https://github.com/claydotio/design-assets/blob/mast
 
 ## 2. Site Styling
 
-### 2.1 Fonts
+### 2.1 Fonts <a name="fonts"></a>
 
 #### Branding Font
 
@@ -107,7 +107,7 @@ icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/des
 icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_left.png)
 icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_right.png)  
 
-### 2.2 Element Styling
+### 2.2 Element Styling <a name="elements"></a>
 
 ###### Buttons
   _Standard button_  
@@ -139,7 +139,7 @@ icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/des
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
   ```
 
-### 2.3 Breakpoints
+### 2.3 Breakpoints <a name="breaks"></a>
 Standard media-query breakpoints to be used in the site design
 
 - 320px

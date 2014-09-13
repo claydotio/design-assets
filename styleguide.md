@@ -110,7 +110,7 @@ Rate Modal
     - Primary orange (selected), Light gray (deselected)
 
 Navigation
-  - icon-back-arrowv
+  - icon-back-arrow
     - 3.2rem
     - Primary orange
     - 0xe804

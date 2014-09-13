@@ -14,7 +14,7 @@
 
 ---
 
-## Branding
+## 1. Branding
 
 ### 1.1 Colors
 _Branding colors_  
@@ -68,7 +68,7 @@ orange_mini   | ![Alt text](https://github.com/claydotio/design-assets/blob/mast
 
 ---
 
-## Site Styling
+## 2. Site Styling
 
 ### 2.1 Fonts
 
@@ -98,14 +98,14 @@ Size      | Name
 
 Name                  | Unicode   | Icon
 ----------------------|-----------|--------
-icon-star             | 0xe800    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/star.png)
-icon-star-half-fill   | 0xe801    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/star_half.png)
-icon-share            | 0xe802    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/share.png)
-icon-market           | 0xe803    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/market.png)
-icon-back-arrow       | 0xe804    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/back_arrow.png)
-icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/close.png)
-icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/chevron_left.png)
-icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/chevron_right.png)  
+icon-star             | 0xe800    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/star.png)
+icon-star-half-fill   | 0xe801    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/star_half.png)
+icon-share            | 0xe802    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/share.png)
+icon-market           | 0xe803    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/market.png)
+icon-back-arrow       | 0xe804    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/back_arrow.png)
+icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/close.png)
+icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_left.png)
+icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_right.png)  
 
 ### 2.2 Element Styling
 
@@ -138,3 +138,11 @@ icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/des
   ```
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
   ```
+
+### 2.3 Breakpoints
+Standard media-query breakpoints to be used in the site design
+
+- 320px
+- 360px
+- 480px
+- 600px

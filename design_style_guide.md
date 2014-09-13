@@ -17,21 +17,21 @@
 ## Branding
 
 ### 1.1 Colors
-Branding colors  
+_Branding colors_  
 
 Name              | Code       | HEX    | RGB
 ------------------|------------|--------|--------------
 Primary Orange    | $orange    | fcaa2f | 252, 170, 47
 Primary Blue      | $blue      | 67afe6 | 103, 175, 230  
 
-Text colors  
+_Text colors_  
 
 Name              | Code       | HEX    | RGB
 ------------------|------------|--------|--------------
 Dark gray         | $grayDark  | 262626 | 38, 38, 38
 Light gray        | $grayLight | 757575 | 117, 117, 117
 
-Element styling  
+_Element styling_  
 
 Name              | Code       | HEX    | RGB
 ------------------|------------|--------|--------------
@@ -93,7 +93,7 @@ Size      | Name
 #### Icon Font
 
 Icon      | Name                  | Unicode
-----------|--------------------------------
+----------|-----------------------|--------
 icon      | icon-star             | 0xe800
 icon      | icon-star-half-fill   | 0xe801
 icon      | icon-share            | 0xe802
@@ -106,7 +106,7 @@ icon      | icon-chevron-right    | 0xe807
 ### 2.2 Element Styling
 
 ###### Buttons
-  Standard button  
+  _Standard button_  
 - Corner radii: 20px  
 - Height: 40px
 - Standard button shadow
@@ -116,7 +116,7 @@ icon      | icon-chevron-right    | 0xe807
   ```
 
 
-  Close button
+  _Close button_
 - Close button shadow
 
   ```

@@ -4,7 +4,7 @@
 
 ### 1. Branding
   1. Colors
-  2. Logo
+  2. Logos
   3. Badges
 
 ### 2. Site Styling
@@ -22,45 +22,49 @@ _Branding colors_
 Name              | Code       | HEX    | RGB           | Color
 ------------------|------------|--------|---------------|--------
 Primary Orange    | $orange    | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_orange.png)
-Primary Blue      | $blue      | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_blue.png) 
+Primary Blue      | $blue      | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_blue.png)
 
 _Text colors_  
 
-Name              | Code       | HEX    | RGB
-------------------|------------|--------|--------------
-Dark gray         | $grayDark  | 262626 | 38, 38, 38
-Light gray        | $grayLight | 757575 | 117, 117, 117
+Name              | Code       | HEX    | RGB           | Color
+------------------|------------|--------|---------------|--------
+Dark gray         | $grayDark  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dark_gray.png)
+Light gray        | $grayLight | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/light_gray.png)
 
 _Element styling_  
 
-Name              | Code       | HEX    | RGB
-------------------|------------|--------|--------------
-Background        | $bgColor   | f2f2f2 | 242, 242, 242
-White             | $white     | ffffff | 255, 255, 255
-Near white        | $          | f7f7f7 | 247, 247, 247
-Disabled gray     | $          | cccccc | 204, 204, 204
-Divider           | $divider   | dedede | 222, 222, 222  
+Name              | Code       | HEX    | RGB           | Color
+------------------|------------|--------|---------------|--------
+Background        | $bgColor   | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/background.png)
+White             | $white     | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
+Near white        | $          | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
+Disabled gray     | $          | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
+Divider           | $divider   | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
 
-### 1.2 Logo
+### 1.2 Logos
 Logos are primarily in .svg and .png formats.  
 
-Image             | Name
+_Note: linked images below are reference only._
+
+Name              | Image
 ------------------|--------------
-image             | logo_standard
-image             | logo_cloud
-image             | logo_alt  
+logo_standard     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_standard.png)
+logo_cloud        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_alt.png)
+logo_alt          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_cloud.png)  
 
 ### 1.3 Badges
 Can be used by on promotional material or to link to games  
 
-Image             | Name
-------------------|--------------
-image             | gray
-image             | gray_alt
-image             | gray_mini
-image             | orange
-image             | orange_alt
-image             | orange_mini  
+_Note: linked images below are reference only._  
+
+Name          | Image
+--------------|--------------
+gray          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/gray.png)
+gray_alt      | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/gray_alt.png)
+gray_mini     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/gray_mini.png)
+orange        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/orange.png)
+orange_alt    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/orange_alt.png)
+orange_mini   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/badges/orange_mini.png)  
 
 ---
 
@@ -92,16 +96,16 @@ Size      | Name
 
 #### Icon Font
 
-Icon      | Name                  | Unicode
-----------|-----------------------|--------
-icon      | icon-star             | 0xe800
-icon      | icon-star-half-fill   | 0xe801
-icon      | icon-share            | 0xe802
-icon      | icon-market           | 0xe803
-icon      | icon-back-arrow       | 0xe804
-icon      | icon-close            | 0xe805
-icon      | icon-chevron-left     | 0xe806
-icon      | icon-chevron-right    | 0xe807  
+Name                  | Unicode   | Icon
+----------------------|-----------|--------
+icon-star             | 0xe800    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/star.png)
+icon-star-half-fill   | 0xe801    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/star_half.png)
+icon-share            | 0xe802    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/share.png)
+icon-market           | 0xe803    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/market.png)
+icon-back-arrow       | 0xe804    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/back_arrow.png)
+icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/close.png)
+icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/chevron_left.png)
+icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/font_icon/chevron_right.png)  
 
 ### 2.2 Element Styling
 

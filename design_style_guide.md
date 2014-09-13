@@ -19,10 +19,10 @@
 ### 1.1 Colors
 _Branding colors_  
 
-Color                                                                         | Name              | Code       | HEX    | RGB
-------------------------------------------------------------------------------|-------------------|------------|--------|--------------
-![Alt text](/style_guide_reference/branding/colors/primary_orange.png)  | Primary Orange    | $orange    | fcaa2f | 252, 170, 47
-![Alt text](/style_guide_reference/branding/colors/primary_blue.png)    | Primary Blue      | $blue      | 67afe6 | 103, 175, 230  
+Name              | Code       | HEX    | RGB           | Color
+------------------|------------|--------|---------------|--------
+Primary Orange    | $orange    | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_orange.png)
+Primary Blue      | $blue      | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_blue.png) 
 
 _Text colors_  
 

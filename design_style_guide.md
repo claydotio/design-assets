@@ -21,8 +21,8 @@ _Branding colors_
 
 Color                                                                         | Name              | Code       | HEX    | RGB
 ------------------------------------------------------------------------------|-------------------|------------|--------|--------------
-![primary_orange](/style_guide_reference/branding/colors/primary_orange.png)  | Primary Orange    | $orange    | fcaa2f | 252, 170, 47
-![primary_orange](/style_guide_reference/branding/colors/primary_blue.png)    | Primary Blue      | $blue      | 67afe6 | 103, 175, 230  
+![Alt text](/style_guide_reference/branding/colors/primary_orange.png)  | Primary Orange    | $orange    | fcaa2f | 252, 170, 47
+![Alt text](/style_guide_reference/branding/colors/primary_blue.png)    | Primary Blue      | $blue      | 67afe6 | 103, 175, 230  
 
 _Text colors_  
 

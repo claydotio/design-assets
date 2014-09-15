@@ -49,8 +49,8 @@ _Note: linked images below are reference only._
 Name              | Image
 ------------------|--------------
 logo_standard     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_standard.png)
-logo_cloud        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_alt.png)
-logo_alt          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_cloud.png)  
+logo_alt          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_alt.png)
+logo_cloud        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/logos/logo_cloud.png)  
 
 ### 1.3 Badges <a name="badges"></a>
 Can be used by on promotional material or to link to games  

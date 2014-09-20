@@ -147,13 +147,11 @@ _Radio button_
 _Text input field_
 - Corner radii: 3px
 - Background color: White
-- Stroke: 1px  
-
-- Normal:
-  - Stroke color: #e6e6e6
-- Active:
-  - Stroke color: #cccccc  
-
+- Stroke: 1px
+  - Normal:
+    - Stroke color: #e6e6e6
+  - Active:
+    - Stroke color: #cccccc
 - Hint text color: Disabled gray
 - Typed text: Dark gray
 

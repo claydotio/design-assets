@@ -2,19 +2,19 @@
 
 ## Contents  
 
-### 1. Branding
+### 1. [Branding](#branding)
   1. [Colors](#colors)
   2. [Logos](#logos)
   3. [Badges](#badges)
 
-### 2. Site Styling
+### 2. [Site Styling](#styling)
   1. [Fonts](#fonts)
   2. [Element styling](#elements)
   3. [Breakpoints](#breaks)
 
 ---
 
-## 1. Branding
+## 1. Branding <a name="branding"></a>
 
 ### 1.1 Colors <a name="colors"></a>
 _Branding colors_  
@@ -68,7 +68,7 @@ orange_mini   | ![Alt text](https://github.com/claydotio/design-assets/blob/mast
 
 ---
 
-## 2. Site Styling
+## 2. Site Styling <a name="styling"></a>
 
 ### 2.1 Fonts <a name="fonts"></a>
 
@@ -149,12 +149,10 @@ _Text input field_
 - Background color: White
 - Stroke: 1px  
 
-
 - Normal:
   - Stroke color: #e6e6e6
 - Active:
-  - Stroke color: #cccccc
-
+  - Stroke color: #cccccc  
 
 - Hint text color: Disabled gray
 - Typed text: Dark gray

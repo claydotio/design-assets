@@ -107,27 +107,57 @@ icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/des
 icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_left.png)
 icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_right.png)  
 
-### 2.2 Element Styling <a name="elements"></a>
+### 2.2 Element Styling <a name="elements"></a>  
+
+![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets.png)
 
 ###### Buttons
-  _Standard button_  
+_Rounded button_  
 - Corner radii: 20px  
 - Height: 40px
+- Disabled: 50% opacity
 - Standard button shadow
 
   ```
   box-shadow: 1px 1.732px 10px 0px rgba(0, 0, 0, 0.3);
   ```
 
+  - Primary rounded button:
+    - Fill color: Primary orange
+    - Text color: White
+  - Secondary rounded button:
+    - Fill color: White
+    - Text color: Primary blue  
 
-  _Close button_
-- Close button shadow
+_Check box_
+- Corner radii: 3px
+- Width: 20px
+- Height: 20px
+- Selected color: Primary orange
+- Normal color: Disabled gray
 
-  ```
-  opacity: 0.75;
-  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
-  ```
+_Radio button_
+- Width: 20px
+- Height: 20px
+- Selected color: Primary orange
+- Normal color: Disabled gray
 
+###### Input fields
+
+_Text input field_
+- Corner radii: 3px
+- Background color: White
+- Stroke: 1px  
+
+
+- Normal:
+  - Stroke color: #e6e6e6
+- Active:
+  - Stroke color: #cccccc
+
+
+- Hint text color: Disabled gray
+- Typed text: Dark gray
 
 ###### Modals
 
@@ -137,6 +167,14 @@ icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/des
 
   ```
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+  ```  
+
+  _Close icon_
+  - Close button shadow
+
+  ```
+  opacity: 0.75;
+  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
   ```
 
 ### 2.3 Breakpoints <a name="breaks"></a>

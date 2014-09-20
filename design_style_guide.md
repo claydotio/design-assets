@@ -109,7 +109,7 @@ icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/des
 
 ### 2.2 Element Styling <a name="elements"></a>  
 
-![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets.png)
+![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/buttons.png)
 
 ###### Buttons
 _Rounded button_  
@@ -129,18 +129,24 @@ _Rounded button_
     - Fill color: White
     - Text color: Primary blue  
 
+![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/checkboxes.png)
+
 _Check box_
 - Corner radii: 3px
 - Width: 20px
 - Height: 20px
 - Selected color: Primary orange
-- Normal color: Disabled gray
+- Normal color: Disabled gray  
+
+![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/radiobuttons.png)
 
 _Radio button_
 - Width: 20px
 - Height: 20px
 - Selected color: Primary orange
-- Normal color: Disabled gray
+- Normal color: Disabled gray  
+
+![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/inputs.png)
 
 ###### Input fields
 

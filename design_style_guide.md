@@ -91,8 +91,8 @@ Size      | Name
 1.2rem    | Small
 1.6rem    | Medium
 2.4rem    | Large
-3.6rem    | X-Large
-4.2rem    | Huge  
+3.6rem    | XLarge
+4.2rem    | XXLarge
 
 #### Icon Font
 

@@ -119,7 +119,7 @@ _Rounded button_
 - Standard button shadow
 
   ```
-  box-shadow: 1px 1.732px 10px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 0.5px 0.866px 3px 0px rgba(0, 0, 0, 0.3);
   ```
 
   - Primary rounded button:
@@ -152,6 +152,7 @@ _Text input field_
 
 ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/inputs.png)
 - Corner radii: 3px
+- Height: 40px
 - Background color: White
 - Stroke: 1px
   - Normal:

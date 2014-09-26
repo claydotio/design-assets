@@ -153,6 +153,7 @@ _Text input field_
 ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/inputs.png)
 - Corner radii: 3px
 - Height: 40px
+- Left/right inner padding: 10px
 - Background color: White
 - Stroke: 1px
   - Normal:

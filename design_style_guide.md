@@ -33,13 +33,13 @@ Light gray        | $grayLight | 757575 | 117, 117, 117 | ![Alt text](https://gi
 
 _Element styling_  
 
-Name              | Code       | HEX    | RGB           | Color
-------------------|------------|--------|---------------|--------
-Background        | $bgColor   | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/background.png)
-White             | $white     | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
-Near white        | $          | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
-Disabled gray     | $          | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
-Divider           | $divider   | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
+Name              | Code        | HEX    | RGB           | Color
+------------------|-------------|--------|---------------|--------
+Background        | $bgColor    | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/background.png)
+White             | $white      | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
+Near white        | $           | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
+Disabled gray     | $           | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
+Divider           | $divider    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  Border Gray       | $borderGray | e6e6e6 | 230, 230, 230 | TODO  
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  
@@ -157,7 +157,7 @@ _Text input field_
 - Background color: White
 - Stroke: 1px
   - Normal:
-    - Stroke color: #e6e6e6
+    - Stroke color: Border gray
   - Active:
     - Stroke color: #cccccc
 - Hint text color: Disabled gray

@@ -40,7 +40,7 @@ White             | $white      | ffffff | 255, 255, 255 | ![Alt text](https://g
 Near white        | $           | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
 Disabled gray     | $           | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
 Divider           | $divider    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
-Border Gray       | $borderGray | e6e6e6 | 230, 230, 230 | TODO  
+Border Color     | $borderColor | e6e6e6 | 230, 230, 230 | TODO  
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  
@@ -137,7 +137,7 @@ _Check box_
 - Width: 20px
 - Height: 20px
 - Selected color: Primary orange
-- Normal color: Disabled gray  
+- Normal color: Disabled color  
 
 _Radio button_  
 
@@ -145,7 +145,7 @@ _Radio button_
 - Width: 20px
 - Height: 20px
 - Selected color: Primary orange
-- Normal color: Disabled gray  
+- Normal color: Disabled color  
 
 ###### Input fields  
 
@@ -158,10 +158,10 @@ _Text input field_
 - Background color: White
 - Stroke: 1px
   - Normal:
-    - Stroke color: Border gray
+    - Stroke color: Border color
   - Active:
-    - Stroke color: #cccccc
-- Hint text color: Disabled gray
+    - Stroke color: Disabled color
+- Hint text color: Disabled color
 - Typed text: Dark gray
 
 ###### Modals

@@ -117,6 +117,20 @@
       "search": [
         "chevron-right"
       ]
+    },
+    {
+      "uid": "419d4c3723cfa2147e72719f21350810",
+      "css": "check",
+      "code": 59400,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M289.8 635.2L154.5 500 109.5 545.1 289.8 725.4 676.1 339 631.1 293.9 289.8 635.2Z",
+        "width": 773
+      },
+      "search": [
+        "check"
+      ]
     }
   ]
 }

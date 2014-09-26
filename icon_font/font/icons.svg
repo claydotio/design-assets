@@ -14,6 +14,7 @@
 <glyph glyph-name="close" unicode="&#xe805;" d="m500 767c-229 0-417-188-417-417s188-417 417-417c229 0 417 188 417 417s-188 417-417 417z m208-567l-58-58-150 150-150-150-58 58 150 150-150 150 58 58 150-150 150 150 58-58-150-150 150-150z" horiz-adv-x="1000" />
 <glyph glyph-name="chevron-left" unicode="&#xe806;" d="m496 498l-45 45-193-193 193-193 45 45-148 148 148 148z" horiz-adv-x="773" />
 <glyph glyph-name="chevron-right" unicode="&#xe807;" d="m322 543l-45-45 148-148-148-148 45-45 193 193-193 193z" horiz-adv-x="773" />
+<glyph glyph-name="check" unicode="&#xe808;" d="m290 215l-135 135-45-45 180-180 386 386-45 45-341-341z" horiz-adv-x="773" />
 </font>
 </defs>
 </svg>

@@ -40,7 +40,7 @@ White             | $white      | ffffff | 255, 255, 255 | ![Alt text](https://g
 Near white        | $           | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
 Disabled gray     | $           | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
 Divider           | $divider    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
-Border Color     | $borderColor | e6e6e6 | 230, 230, 230 | TODO  
+Border Color     | $borderColor | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/border_gray.png)  
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  
@@ -106,7 +106,8 @@ icon-market           | 0xe803    | ![Alt text](https://github.com/claydotio/des
 icon-back-arrow       | 0xe804    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/back_arrow.png)
 icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/close.png)
 icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_left.png)
-icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_right.png)  
+icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/chevron_right.png)
+icon-check            | 0xe808    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icon_font/check.png)  
 
 ### 2.2 Element Styling <a name="elements"></a>  
 

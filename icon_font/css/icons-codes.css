@@ -8,3 +8,7 @@
 .icon-chevron-left:before { content: '\e806'; } /* '' */
 .icon-chevron-right:before { content: '\e807'; } /* '' */
 .icon-check:before { content: '\e808'; } /* '' */
+.icon-help:before { content: '\e809'; } /* '' */
+.icon-refresh:before { content: '\e80a'; } /* '' */
+.icon-ticket:before { content: '\e80b'; } /* '' */
+.icon-swords:before { content: '\e80c'; } /* '' */

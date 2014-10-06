@@ -109,7 +109,7 @@ icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/des
 icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chevron-right.png)
 icon-check            | 0xe808    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/check.png)
 icon-help             | 0xe809    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help.png)
-icon-help-alt         | 0xe82b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help.png)
+icon-help-alt         | 0xe82b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help-alt.png)
 icon-refresh          | 0xe80a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/refresh.png)  
 icon-ticket           | 0xe80b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ticket.png)
 icon-challenge        | 0xe80c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/challenge.png)

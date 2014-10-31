@@ -143,6 +143,11 @@ icon-chart            | 0xe827    | ![Alt text](https://github.com/claydotio/des
 icon-credit-card      | 0xe828    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/credit-card.png)
 icon-male             | 0xe829    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/male.png)
 icon-female           | 0xe82a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/female.png)
+icon-menu             | 0xe82c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/menu.png)
+icon-arrow-down       | 0xe82d    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/down-arrow.png)
+icon-arrow-up         | 0xe82e    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/up-arrow.png)
+icon-group            | 0xe82f    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/group.png)
+icon-calendar         | 0xe830    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)
 
 
 ### 2.2 Element Styling <a name="elements"></a>  

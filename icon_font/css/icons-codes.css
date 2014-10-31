@@ -43,3 +43,8 @@
 .icon-male:before { content: '\e829'; } /* '' */
 .icon-female:before { content: '\e82a'; } /* '' */
 .icon-help-alt:before { content: '\e82b'; } /* '' */
+.icon-menu:before { content: '\e82c'; } /* '' */
+.icon-arrow-down:before { content: '\e82d'; } /* '' */
+.icon-arrow-up:before { content: '\e82e'; } /* '' */
+.icon-group:before { content: '\e82f'; } /* '' */
+.icon-calendar:before { content: '\e830'; } /* '' */

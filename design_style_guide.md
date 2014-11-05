@@ -149,7 +149,7 @@ icon-arrow-up         | 0xe82e    | ![Alt text](https://github.com/claydotio/des
 icon-group            | 0xe82f    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/group.png)
 icon-calendar         | 0xe830    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)
 icon-play             | 0xe831    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play.png)
-icon-play-circle      | 0xe832    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play-cirlce.png)
+icon-play-circle      | 0xe832    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play-circle.png)
 
 
 ### 2.2 Element Styling <a name="elements"></a>  

@@ -162,7 +162,7 @@ _Rounded button_
 - Standard button shadow
 
   ```
-  box-shadow: 0.5px 0.866px 3px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   ```
 
   - Primary rounded button:
@@ -214,7 +214,7 @@ _Text input field_
 
   ```
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
-  ```  
+  ```
 
   _Close icon_
   - Close button shadow
@@ -243,6 +243,19 @@ _Text input field_
 
   ```
   box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.5);
+  ```  
+
+###### Header Bar
+
+- Keyline shadow  
+
+  ```
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.13);
+  ```  
+- Drop shadow  
+
+  ```
+  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
   ```
 
 ### 2.3 Breakpoints <a name="breaks"></a>

@@ -256,6 +256,12 @@ _Text input field_
 
   ```
   box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
+  ```  
+
+###### Game Images  
+
+  ```
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   ```
 
 ### 2.3 Breakpoints <a name="breaks"></a>

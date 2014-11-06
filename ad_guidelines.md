@@ -41,6 +41,8 @@ It is recommended that ads not be displayed immediately. Players should be given
 
 Note, only one ad should be displayed at any given time.
 
+Abuse of ads from Clay.io will result in access being rejected.
+
 ##### Banners  
 
 Banner advertisements are the most common type of in-game ad. These ads perform best when placed at the top or bottom of game menus. It's advised that banner ads not appear on the initial start screen, instead appearing in later menus.

@@ -35,21 +35,25 @@ Interstitials will always overlay the entire view.
 
 ### Usage <a name="usage"></a>  
 
-To gain the most out of in-game advertisement it is important to display them in at the correct times. The best implemented ads remain unobtrusive so as not to annoy or turn away players.
+To gain the most out of in-game advertisements, it is important to display them in at the correct times. The best implemented ads remain unobtrusive so as not to annoy or turn away players.
 
 It is recommended that ads not be displayed immediately. Players should be given the opportunity to experience part of the game before they are displayed. Ads displayed too soon may turn away new players.
 
-Note, only one ad should be displayed at any given time.
+Note: only one ad should be displayed at any given time.
 
-Abuse of ads from Clay.io will result in access being rejected.
+Abuse of ads from Clay.io will result in revoked ad access or a game takedown.
 
 ##### Banners  
 
 Banner advertisements are the most common type of in-game ad. These ads perform best when placed at the top or bottom of game menus. It's advised that banner ads not appear on the initial start screen, instead appearing in later menus.
 
-Displaying these ads during game play is highly discouraged. In doing so, they may be subject to unintentional taps/clicks, as well as they may distract from the actual game, reducing engagement and potentially retention.
+Displaying these ads during gameplay is highly discouraged. In doing so, they may be subject to unintentional taps/clicks, as well as they may distract from the actual game, reducing engagement and retention.
 
+<<<<<<< HEAD
 When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline may be subject to having their ad access rejected.
+=======
+When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Additionally, adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline are subject to having their ad access revoked.
+>>>>>>> origin/master
 
 ##### Interstitials  
 

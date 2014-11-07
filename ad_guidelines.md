@@ -49,11 +49,11 @@ Banner advertisements are the most common type of in-game ad. These ads perform 
 
 Displaying these ads during gameplay is highly discouraged. In doing so, they may be subject to unintentional taps/clicks, as well as they may distract from the actual game, reducing engagement and retention.
 
-<<<<<<< HEAD
 When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline may be subject to having their ad access rejected.
-=======
+
 When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Additionally, adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline are subject to having their ad access revoked.
->>>>>>> origin/master
+
+When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Additionally, adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline may be subject to having their ad access rejected.
 
 ##### Interstitials  
 

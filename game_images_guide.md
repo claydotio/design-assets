@@ -8,30 +8,36 @@ List of promotional images to be uploaded by developers/publishers alongside the
 
 Large image to be used at the top of detail pages. Also known as a "cover," "header," or "hero" graphic.
 
-- Dimensions: 2560 x 640
-- Minimum safe zone (center crop): 1138 x 640 (16:9)
-- Optional: Yes
+It's recommended that these images contain the game's logo that is centered within the safe cropping margins (see guide).
 
-### Promo Image
+- Dimensions: 2560 x 420
+- Minimum safe zone (center crop): 746 x 420 (16:9)
+- Optional
 
-Image to be used in various places across the service (potentially the Swipe Bar, the home page, etc).
+### Accent Image
 
-- Dimensions: 1280 x 800
-- Optional: NO
+Displayed in the drawer, dialogs, etc. Provides contextual tie-in.
+
+These images should remain simple and devoid of any text / logos. Simple patterns and colors work best.
+
+- Dimensions: 900 x 300
+- Required
 
 ### Icon Image
 
 Square icon to be used in the Marketplace listings, as well as on device home screens.
 
+Icons should be completely square and fill the entire frame. Rounded corner, circles, and other non-square shapes are forwned upon.
+
 - Dimensions: 512 x 512
-- Optional: NO
+- Required
 
 ### Achievement Icons
 
 Square icons to correspond with achievements (if any).
 
 - Dimensions: 256 x 256
-- Optional: NO (if achievements are included)
+- Required (if achievements are included)
 
 # Current standards on other platforms
 

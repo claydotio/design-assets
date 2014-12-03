@@ -85,7 +85,7 @@ To be used globally across the Clay.io site and apps
 
 ###### Font Sizing
 
-Base scaling: 1rem = 10pt  
+Base scaling: 1rem = 10px  
 
 Size      | Name
 ----------|--------

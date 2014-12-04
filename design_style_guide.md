@@ -42,8 +42,8 @@ Light gray 2      | $litGray2   | Border            | e6e6e6 | 230, 230, 230 | !
 Light gray 3      | $litGray3   | Near white        | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg3.png)
 White             | $white      |                   | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
 Background        | $bgColor    |                   | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/bg.png)
-Positive green    | $posGreen   |                   | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
-Negative red      | $negRed     |                   | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
+Green             | $green      |                   | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
+Red               | $red        |                   | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  

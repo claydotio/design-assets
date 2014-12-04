@@ -230,21 +230,21 @@ _Text input field_
 - White fade
   - Top: 90°
   - Bottom: -90°
-  - Height: 25% of middle image (square)
+  - Height: 25% of middle image (square)  
 
-  ```
-  -moz-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  -webkit-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  -ms-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  ```  
+```
+-moz-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+-webkit-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+-ms-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+```
 
 - Respin button
-  Width: 50px
-  Height: 50px
-
-  ```
-  box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.5);
-  ```  
+  - Width: 50px
+  - Height: 50px  
+  
+```
+box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.5);
+```  
 
 ###### Header Bar
 

@@ -156,6 +156,16 @@ icon-arrow-right      | 0xe834    | ![Alt text](https://github.com/claydotio/des
 
 ### 2.2 Element Styling <a name="elements"></a>  
 
+###### Shadows
+
+Z-Index | CSS
+--------|-----
+1       | box-shadow: 0 1px 6px rgba(0,0,0,.12),0 1px 6px rgba(0,0,0,.12);
+2       | box-shadow: 0 3px 10px rgba(0,0,0,.23),0 3px 10px rgba(0,0,0,.16);
+3       | box-shadow: 0 6px 10px rgba(0,0,0,.23),0 10px 30px rgba(0,0,0,.19);
+4       | box-shadow: 0 10px 18px rgba(0,0,0,.22),0 14px 45px rgba(0,0,0,.25);
+5       | box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+
 ###### Buttons
 _Rounded button_  
 
@@ -163,18 +173,14 @@ _Rounded button_
 - Corner radii: 20px  
 - Height: 40px
 - Disabled: 50% opacity
-- Standard button shadow
+- Shadow: Z-1
 
-  ```
-  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-  ```
-
-  - Primary rounded button:
-    - Fill color: Primary orange
-    - Text color: White
-  - Secondary rounded button:
-    - Fill color: White
-    - Text color: Primary blue  
+- Primary rounded button:
+  - Fill color: Primary orange
+  - Text color: White
+- Secondary rounded button:
+  - Fill color: White
+  - Text color: Primary blue  
 
 _Check box_  
 
@@ -214,19 +220,10 @@ _Text input field_
 
 - Modal corner radii: 3px  
 - Dark overlay: 70% black  
-- Modal shadow
-
-  ```
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
-  ```
+- Modal shadow: Z-3
 
   _Close icon_
-  - Close button shadow
-
-  ```
-  opacity: 0.75;
-  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
-  ```  
+  - Close button shadow: Z-2
 
 ###### Spinner
 
@@ -251,22 +248,11 @@ _Text input field_
 
 ###### Header Bar
 
-- Keyline shadow  
-
-  ```
-  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.13);
-  ```  
-- Drop shadow  
-
-  ```
-  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
-  ```  
+- Shadow: Z-1
 
 ###### Game Images  
 
-  ```
-  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-  ```
+- Shadow: Z-1
 
 ### 2.3 Breakpoints <a name="breaks"></a>
 Standard media-query breakpoints to be used in the site design

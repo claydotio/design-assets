@@ -17,33 +17,30 @@
 ## 1. Branding <a name="branding"></a>
 
 ### 1.1 Colors <a name="colors"></a>
-_Branding colors_  
+_Primary colors_  
 
-Name              | Code        | HEX    | RGB           | Color
-------------------|-------------|--------|---------------|--------
-Primary Orange    | $orange     | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
-Primary Blue      | $blue       | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
+Name              | Code          | HEX    | RGB           | Color
+------------------|---------------|--------|---------------|--------
+Orange Primary    | $orange       | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
+Blue Primary      | $blue         | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
 
-_Text colors_  
+_Secondary colors_  
 
-Name              | Code        | Formerly known as | HEX    | RGB           | Color
-------------------|-------------|-------------------|--------|---------------|--------
-Dark gray 1       | $darkGray1  |                   | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)
-Medium gray 1     | $medGray1   | Light gray        | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg1.png)
+Name              | Code          | HEX    | RGB           | Color
+------------------|---------------|--------|---------------|--------
+Orange Accent     | $orangeAccent | fe6823 | 254, 104, 35  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/oa.png)
+Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
+Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
+Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)
+Darker grey       | $greyDarker   | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg1.png) 
+Dark grey         | $greyDark     | 999999 | 153, 153, 153 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg2.png)
+Medium grey       | $greyMedium   | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg3.png)
+Light grey        | $greyLight    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg1.png)
+Lighter grey      | $greyLighter  | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg2.png)
+Lightest grey     | $greyLightest | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg3.png)
+White             | $white        | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
+Background        | $bgColor      | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/bg.png)
 
-_Element styling_  
-
-Name              | Code        | Formerly known as | HEX    | RGB           | Color
-------------------|-------------|-------------------|--------|---------------|--------
-Medium gray 2     | $medGray2   |                   | 999999 | 153, 153, 153 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg2.png)
-Medium gray 3     | $medGray3   | Disabled          | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg3.png)
-Light gray 1      | $litGray1   | Divider           | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg1.png)
-Light gray 2      | $litGray2   | Border            | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg2.png)
-Light gray 3      | $litGray3   | Near white        | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg3.png)
-White             | $white      |                   | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
-Background        | $bgColor    |                   | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/bg.png)
-Green             | $green      |                   | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
-Red               | $red        |                   | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  

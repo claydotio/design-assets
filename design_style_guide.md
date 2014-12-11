@@ -176,11 +176,11 @@ _Rounded button_
 - Shadow: Z-1
 
 - Primary rounded button:
-  - Fill color: Primary orange
+  - Fill color: Orange primary
   - Text color: White
 - Secondary rounded button:
   - Fill color: White
-  - Text color: Primary blue  
+  - Text color: Blue primary
 
 _Check box_  
 
@@ -188,16 +188,16 @@ _Check box_
 - Corner radii: 3px
 - Width: 20px
 - Height: 20px
-- Selected color: Primary orange
-- Normal color: Disabled color  
+- Selected color: Orange primary
+- Normal color: Medium grey  
 
 _Radio button_  
 
 ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/radiobuttons.png)
 - Width: 20px
 - Height: 20px
-- Selected color: Primary orange
-- Normal color: Disabled color  
+- Selected color: Orange primary
+- Normal color: Medium grey  
 
 ###### Input fields  
 
@@ -210,11 +210,15 @@ _Text input field_
 - Background color: White
 - Stroke: 1px
   - Normal:
-    - Stroke color: Border color
+    - Stroke color: Lighter grey
   - Active:
-    - Stroke color: Disabled color
-- Hint text color: Disabled color
-- Typed text: Dark gray
+    - Stroke color: Medium grey
+- Hint text color: Medium grey
+- Typed text: Darkest grey
+
+###### Hyperlink text
+- Normal color: Orange accent
+- On hover: Orange primary
 
 ###### Modals
 

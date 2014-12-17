@@ -50,3 +50,8 @@
 .icon-calendar:before { content: '\e830'; } /* '' */
 .icon-play:before { content: '\e831'; } /* '' */
 .icon-play-circle:before { content: '\e832'; } /* '' */
+.icon-arrow-left:before { content: '\e833'; } /* '' */
+.icon-arrow-right:before { content: '\e834'; } /* '' */
+.icon-happy:before { content: '\e835'; } /* '' */
+.icon-ads:before { content: '\e836'; } /* '' */
+.icon-stats:before { content: '\e837'; } /* '' */

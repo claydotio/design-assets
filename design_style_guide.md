@@ -17,30 +17,30 @@
 ## 1. Branding <a name="branding"></a>
 
 ### 1.1 Colors <a name="colors"></a>
-_Branding colors_  
+_Primary colors_  
 
-Name              | Code       | HEX    | RGB           | Color
-------------------|------------|--------|---------------|--------
-Primary Orange    | $orange    | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_orange.png)
-Primary Blue      | $blue      | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/primary_blue.png)
+Name              | Code          | HEX    | RGB           | Color
+------------------|---------------|--------|---------------|--------
+Orange primary    | $orange       | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
+Blue primary      | $blue         | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
 
-_Text colors_  
+_Secondary colors_  
 
-Name              | Code       | HEX    | RGB           | Color
-------------------|------------|--------|---------------|--------
-Dark gray         | $grayDark  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dark_gray.png)
-Light gray        | $grayLight | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/light_gray.png)
+Name              | Code          | HEX    | RGB           | Color
+------------------|---------------|--------|---------------|--------
+Orange accent     | $orangeAccent | fe6823 | 254, 104, 35  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/oa.png)
+Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
+Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
+Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)
+Darker grey       | $greyDarker   | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg1.png)
+Dark grey         | $greyDark     | 999999 | 153, 153, 153 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg2.png)
+Medium grey       | $greyMedium   | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg3.png)
+Light grey        | $greyLight    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg1.png)
+Lighter grey      | $greyLighter  | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg2.png)
+Lightest grey     | $greyLightest | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg3.png)
+White             | $white        | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
+Background        | $bgColor      | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/bg.png)
 
-_Element styling_  
-
-Name              | Code        | HEX    | RGB           | Color
-------------------|-------------|--------|---------------|--------
-Background        | $bgColor    | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/background.png)
-White             | $white      | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
-Near white        | $           | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/near_white.png)
-Disabled gray     | $           | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/disabled_gray.png)
-Divider           | $divider    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/divider.png)  
-Border Color     | $borderColor | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/border_gray.png)  
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  
@@ -85,7 +85,7 @@ To be used globally across the Clay.io site and apps
 
 ###### Font Sizing
 
-Base scaling: 1rem = 10pt  
+Base scaling: 1rem = 10px  
 
 Size      | Name
 ----------|--------
@@ -150,9 +150,24 @@ icon-group            | 0xe82f    | ![Alt text](https://github.com/claydotio/des
 icon-calendar         | 0xe830    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)
 icon-play             | 0xe831    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play.png)
 icon-play-circle      | 0xe832    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play-circle.png)
+icon-arrow-left       | 0xe833    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-left.png)
+icon-arrow-right      | 0xe834    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-right.png)
+icon-happy            | 0xe835    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/happy.png)
+icon-ads              | 0xe836    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
+icon-stats            | 0xe837    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/stats.png)
 
 
 ### 2.2 Element Styling <a name="elements"></a>  
+
+###### Shadows
+
+Z-Index | CSS
+--------|-----
+1       | box-shadow: 0 1px 6px rgba(0,0,0,.12),0 1px 6px rgba(0,0,0,.12);
+2       | box-shadow: 0 3px 10px rgba(0,0,0,.23),0 3px 10px rgba(0,0,0,.16);
+3       | box-shadow: 0 6px 10px rgba(0,0,0,.23),0 10px 30px rgba(0,0,0,.19);
+4       | box-shadow: 0 10px 18px rgba(0,0,0,.22),0 14px 45px rgba(0,0,0,.25);
+5       | box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
 
 ###### Buttons
 _Rounded button_  
@@ -161,18 +176,14 @@ _Rounded button_
 - Corner radii: 20px  
 - Height: 40px
 - Disabled: 50% opacity
-- Standard button shadow
+- Shadow: Z-1
 
-  ```
-  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-  ```
-
-  - Primary rounded button:
-    - Fill color: Primary orange
-    - Text color: White
-  - Secondary rounded button:
-    - Fill color: White
-    - Text color: Primary blue  
+- Primary rounded button:
+  - Fill color: Orange primary
+  - Text color: White
+- Secondary rounded button:
+  - Fill color: White
+  - Text color: Blue primary
 
 _Check box_  
 
@@ -180,16 +191,16 @@ _Check box_
 - Corner radii: 3px
 - Width: 20px
 - Height: 20px
-- Selected color: Primary orange
-- Normal color: Disabled color  
+- Selected color: Orange primary
+- Normal color: Medium grey  
 
 _Radio button_  
 
 ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/assets/radiobuttons.png)
 - Width: 20px
 - Height: 20px
-- Selected color: Primary orange
-- Normal color: Disabled color  
+- Selected color: Orange primary
+- Normal color: Medium grey  
 
 ###### Input fields  
 
@@ -202,69 +213,53 @@ _Text input field_
 - Background color: White
 - Stroke: 1px
   - Normal:
-    - Stroke color: Border color
+    - Stroke color: Lighter grey
   - Active:
-    - Stroke color: Disabled color
-- Hint text color: Disabled color
-- Typed text: Dark gray
+    - Stroke color: Medium grey
+- Hint text color: Medium grey
+- Typed text: Darkest grey
+
+###### Hyperlink text
+- Normal color: Orange accent
+- On hover: Orange primary
 
 ###### Modals
 
 - Modal corner radii: 3px  
 - Dark overlay: 70% black  
-- Modal shadow
-
-  ```
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.3);
-  ```
+- Modal shadow: Z-3
 
   _Close icon_
-  - Close button shadow
-
-  ```
-  opacity: 0.75;
-  text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
-  ```  
+  - Close button shadow: Z-2
 
 ###### Spinner
 
 - White fade
   - Top: 90°
   - Bottom: -90°
-  - Height: 25% of middle image (square)
+  - Height: 25% of middle image (square)  
 
-  ```
-  -moz-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  -webkit-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  -ms-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
-  ```  
+```
+-moz-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+-webkit-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+-ms-linear-gradient( rgba(242,242,242,0) 0%, rgba(242,242,242,0.90196) 100%);
+```
 
 - Respin button
-  Width: 50px
-  Height: 50px
+  - Width: 50px
+  - Height: 50px  
 
-  ```
-  box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.5);
-  ```  
+```
+box-shadow: 0px 0px 30px 0px rgba(38, 38, 38, 0.5);
+```  
 
 ###### Header Bar
 
-- Keyline shadow  
-
-  ```
-  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.13);
-  ```  
-- Drop shadow  
-
-  ```
-  box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
-  ```  
+- Shadow: Z-1
 
 ###### Game Images  
 
-  ```
-  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
-  ```
+- Shadow: Z-1
 
 ### 2.3 Breakpoints <a name="breaks"></a>
 Standard media-query breakpoints to be used in the site design

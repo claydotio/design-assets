@@ -8,7 +8,7 @@ List of promotional images to be uploaded by developers/publishers alongside the
 
 Square icon to be used in the Marketplace listings, as well as on device home screens.
 
-Icons should be completely square and fill the entire frame. Rounded corner, circles, and other non-square shapes are forwned upon.
+Icons should be completely square and fill the entire frame. Rounded corners, circles, and other non-square shapes are frowned upon.
 
 - Dimensions: 512 x 512
 - Required
@@ -38,7 +38,7 @@ These images should remain simple and devoid of any text / logos. Simple pattern
 Square icons to correspond with achievements (if any).
 
 - Dimensions: 256 x 256
-- Required (if achievements are included)
+- Required (if achievements are included with game)
 
 # Current standards on other platforms
 

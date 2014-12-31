@@ -32,6 +32,14 @@ These images should remain simple and devoid of any text / logos. Simple pattern
 - Dimensions: 900 x 300
 - Optional
 
+### Screenshot Image
+
+Screenshot
+
+- Dimensions: min 320px, max 3840px
+- Optional
+- Max 5
+
 
 ### Achievement Icons
 

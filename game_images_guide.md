@@ -13,6 +13,16 @@ Icons should be completely square and fill the entire frame. Rounded corner, cir
 - Dimensions: 512 x 512
 - Required
 
+### Header Image
+
+Large image to be used at the top of detail pages. Also known as a "cover," "header," or "hero" graphic.
+
+It's recommended that this image contain the game's logo/title centered within the safe zone (see guide).
+
+- Dimensions: 2550 x 850
+- Minimum safe zone (center crop): 1700 x 850 (2:1)
+- Required
+
 ### Accent Image
 
 Displayed in the drawer, dialogs, etc. Provides contextual tie-in.
@@ -20,17 +30,8 @@ Displayed in the drawer, dialogs, etc. Provides contextual tie-in.
 These images should remain simple and devoid of any text / logos. Simple patterns and colors work best.
 
 - Dimensions: 900 x 300
-- Required
-
-### Header Image
-
-Large image to be used at the top of detail pages. Also known as a "cover," "header," or "hero" graphic.
-
-It's recommended that this image contain the game's logo/title centered within the safe zone (see guide).
-
-- Dimensions: 2560 x 420
-- Minimum safe zone (center crop): 746 x 420 (16:9)
 - Optional
+
 
 ### Achievement Icons
 

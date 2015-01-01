@@ -27,7 +27,7 @@ It's recommended that this image contain the game's logo/title centered within t
 
 Displayed in the drawer, dialogs, etc. Provides contextual tie-in.
 
-These images should remain simple and devoid of any text / logos. Simple patterns and colors work best.
+These images should remain simple and devoid of any text/logos. Simple patterns and colors work best.
 
 - Dimensions: 900 x 300
 - Optional

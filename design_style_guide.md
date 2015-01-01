@@ -29,7 +29,7 @@ _Secondary colors_
 Name              | Code          | HEX    | RGB           | Color
 ------------------|---------------|--------|---------------|--------
 Orange accent     | $orangeAccent | fa5b0f | 250, 91, 15  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/oa.png)
-Android accent    | n/a           | ff6d1f | 255, 109, 31  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
+Android accent    | n/a           | f2681d | 242, 104, 29  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
 Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
 Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
 Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)

@@ -155,6 +155,9 @@ icon-arrow-right      | 0xe834    | ![Alt text](https://github.com/claydotio/des
 icon-happy            | 0xe835    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/happy.png)
 icon-ads              | 0xe836    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
 icon-stats            | 0xe837    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/stats.png)
+icon-dev-console      | 0xe838    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/dev-console.png)
+icon-music            | 0xe839    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/music.png)
+icon-photos           | 0xe83a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/photos.png)
 
 
 ### 2.2 Element Styling <a name="elements"></a>  

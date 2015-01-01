@@ -21,14 +21,15 @@ _Primary colors_
 
 Name              | Code          | HEX    | RGB           | Color
 ------------------|---------------|--------|---------------|--------
-Orange primary    | $orange       | fcaa2f | 252, 170, 47  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
-Blue primary      | $blue         | 67afe6 | 103, 175, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
+Orange primary    | $orange       | ff822e | 255, 130, 46  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
+Blue primary      | $blue         | 1d87cc | 29, 135, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
 
 _Secondary colors_  
 
 Name              | Code          | HEX    | RGB           | Color
 ------------------|---------------|--------|---------------|--------
-Orange accent     | $orangeAccent | fe6823 | 254, 104, 35  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/oa.png)
+Orange accent     | $orangeAccent | fa5b0f | 250, 91, 15  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/oa.png)
+Android accent    | n/a           | ff6d1f | 255, 109, 31  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
 Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
 Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
 Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)

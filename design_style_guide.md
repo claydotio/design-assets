@@ -21,14 +21,14 @@ _Primary colors_
 
 Name              | Code          | HEX    | RGB           | Color
 ------------------|---------------|--------|---------------|--------
-Orange primary    | $orange       | ff822e | 255, 130, 46  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
-Blue primary      | $blue         | 1d87cc | 29, 135, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
+Orange primary    | $orange       | ff8a00 | 255, 138, 0  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
+Blue primary      | $blue         | 008aff | 0, 138, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
 
 _Secondary colors_  
 
 Name              | Code          | HEX    | RGB           | Color
 ------------------|---------------|--------|---------------|--------
-Accent            | $accent       | f2681d | 242, 104, 29  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
+Accent            | $accent       | f47300 | 244, 115, 0  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
 Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
 Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
 Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)

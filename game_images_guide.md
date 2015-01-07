@@ -37,7 +37,7 @@ These images should remain simple and devoid of any text/logos. Simple patterns 
 Screenshot
 
 - Dimensions: min 320px, max 3840px
-- Optional
+- Min 2
 - Max 5
 
 

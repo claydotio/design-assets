@@ -166,11 +166,11 @@ icon-photos           | 0xe83a    | ![Alt text](https://github.com/claydotio/des
 
 Z-Index | CSS
 --------|-----
-1       | box-shadow: 0 1px 6px rgba(0,0,0,.12),0 1px 6px rgba(0,0,0,.12);
-2       | box-shadow: 0 3px 10px rgba(0,0,0,.23),0 3px 10px rgba(0,0,0,.16);
-3       | box-shadow: 0 6px 10px rgba(0,0,0,.23),0 10px 30px rgba(0,0,0,.19);
-4       | box-shadow: 0 10px 18px rgba(0,0,0,.22),0 14px 45px rgba(0,0,0,.25);
-5       | box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+1       | box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.15);
+2       | box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05), 0 6px 18px 0 rgba(0, 0, 0, 0.15);
+3       | box-shadow: 0 11px 10px 0 rgba(0, 0, 0, 0.05), 0 13px 30px 0 rgba(0, 0, 0, 0.15);
+4       | box-shadow: 0 14px 12px 0 rgba(0, 0, 0, 0.05), 0 20px 40px 0 rgba(0, 0, 0, 0.15);
+5       | box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.05), 0 27px 55px 0 rgba(0, 0, 0, 0.15);
 
 ###### Buttons
 _Rounded button_  

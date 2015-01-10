@@ -15,7 +15,7 @@ Icons should be completely square and fill the entire frame. Rounded corners, ci
 
 ### Header Image
 
-Large image to be used at the top of detail pages. Also known as a "cover," "header," or "hero" graphic.
+Large image to be used at the top of detail pages. Also known as a "cover," "feature," or "hero" graphic.
 
 It's recommended that this image contain the game's logo/title centered within the safe zone (see guide).
 

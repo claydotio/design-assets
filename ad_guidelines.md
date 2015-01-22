@@ -32,34 +32,34 @@ Banner advertisements will always align to the very top or bottom of the view.
 
 Interstitials will always overlay the entire view.  
 
-### [Usage](#usage")
+### [Usage](#usage)
 
 To gain the most out of in-game advertisements, it is important to display them in at the correct times. The best implemented ads remain unobtrusive so as not to annoy or turn away players.
 
-It is required that ads not be displayed immediately. Players should be given the opportunity to experience part of the game before they are displayed. Ads displayed too soon may turn away new players.
-
 Note: only one ad should be displayed at any given time.
 
-Abuse of ads from Clay.io will result in revoked ad access or a game takedown.
+Abuse of ads from Clay.io may result in revoked ad access or a game takedown.
 
 ##### Banners  
 
-Banner advertisements are the most common type of in-game ad. These ads perform best when placed at the top or bottom of game menus. It's advised that banner ads not appear on the initial start screen, instead appearing in later menus.
+These ads perform best when placed at the top or bottom of game menus. It's advised that banner ads not appear on the initial start screen, instead appearing in later menus.
 
-Displaying these ads during gameplay is highly discouraged. In doing so, they may be subject to unintentional taps/clicks, as well as they may distract from the actual game, reducing engagement and retention.
+Displaying these ads during gameplay is highly discouraged.
 
-When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline may be subject to having their ad access rejected.
+Do Not:
 
-When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Additionally, adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline are subject to having their ad access revoked.
+  - Obstruct buttons or icons with ads
 
-When displaying these ads on game menus, it is important to ensure they do not obstruct or conflict with other buttons. Additionally, adequate padding should be provided between buttons and ads to avoid unintentional taps/clicks. Games which violate this guideline may be subject to having their ad access rejected.
+Do:
+  
+  - Provide adequate padding between ads and in-game content
 
 ##### Interstitials  
 
-Interstitial advertisements can be very powerful. These ads overlay the entire display, completely taking over the player's attention. All UI for these ads are provided in the SDK, so no further work is required.
-
 These types of ads work best when displayed at the end of/in-between levels or plays. They should appear before the "game over" options (such as buttons to proceed to the next level) to avoid unintentional taps/clicks.
 
-Interstitials should _never_ be displayed mid-game play. Doing so nearly guarantees players will be turned away.
+Do Not:
 
-There should not be a repeated number of interstitial ads shown in a short amount of time. Time between ads should be no shorter than 60 seconds, however it's highly advisable to extend that time further to reduce the chance of overloading players.
+  - Display immediately, before any user interaction
+  - Display mid-game play
+  - Display consecutive ads within 60 seconds of each other

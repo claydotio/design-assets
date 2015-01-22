@@ -37,7 +37,7 @@ Interstitials will always overlay the entire view.
 
 To gain the most out of in-game advertisements, it is important to display them in at the correct times. The best implemented ads remain unobtrusive so as not to annoy or turn away players.
 
-It is recommended that ads not be displayed immediately. Players should be given the opportunity to experience part of the game before they are displayed. Ads displayed too soon may turn away new players.
+It is required that ads not be displayed immediately. Players should be given the opportunity to experience part of the game before they are displayed. Ads displayed too soon may turn away new players.
 
 Note: only one ad should be displayed at any given time.
 

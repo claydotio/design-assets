@@ -2,7 +2,7 @@
 
 ### Contents  
 
-- [Available sizes](#sizes)
+- [Available sizes](#available-sizes)
 - [Placement](#placement)
 - [Usage](#usage)
 

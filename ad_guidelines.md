@@ -5,11 +5,10 @@
 - [Available sizes](#sizes)
 - [Placement](#placement)
 - [Usage](#usage)
-- References
 
 ---
 
-### Available Sizes <a name="sizes"></a>
+### [Available Sizes](#sizes)
 
 Clay.io provides 3 sizes for advertisements. Available sizes are:  
 
@@ -17,7 +16,7 @@ Clay.io provides 3 sizes for advertisements. Available sizes are:
 - 320 x 480 (interstitial)
 - 480 x 320 (interstitial, landscape)
 
-### Placement <a name="placement"></a>
+### [Placement](#placement)
 
 There are 4 placement configurations available.
 
@@ -33,7 +32,7 @@ Banner advertisements will always align to the very top or bottom of the view.
 
 Interstitials will always overlay the entire view.  
 
-### Usage <a name="usage"></a>  
+### [Usage](#usage")
 
 To gain the most out of in-game advertisements, it is important to display them in at the correct times. The best implemented ads remain unobtrusive so as not to annoy or turn away players.
 

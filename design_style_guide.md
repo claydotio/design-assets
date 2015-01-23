@@ -99,12 +99,12 @@ Size      | Name
 
 Name                  | Unicode   | Icon
 ----------------------|-----------|--------
-icon-achievement       | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/achievement.png)
+icon-achievement      | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/achievement.png)
 icon-ads              | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
-icon-arrow-down       | 0xe808    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/down-arrow.png)
+icon-arrow-down       | 0xe808    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-down.png)
 icon-arrow-left       | 0xe809    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-left.png)
 icon-arrow-right      | 0xe80a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-right.png)
-icon-arrow-up         | 0xe80b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/up-arrow.png)
+icon-arrow-up         | 0xe80b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-up.png)
 icon-back-arrow       | 0xe80c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/back-arrow.png)
 icon-badge            | 0xe80d    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/badge.png)
 icon-calendar         | 0xe80e    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)

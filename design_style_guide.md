@@ -17,30 +17,41 @@
 ## 1. Branding <a name="branding"></a>
 
 ### 1.1 Colors <a name="colors"></a>
-_Primary colors_  
+_Orange Primary_  
 
-Name              | Code          | HEX    | RGB           | Color
-------------------|---------------|--------|---------------|--------
-Orange primary    | $orange       | ff8a00 | 255, 138, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange.png)
-Blue primary      | $blue         | 008aff | 0, 138, 255   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue.png)
+Value | Code          | HEX    | RGB           | Color
+------|---------------|--------|---------------|--------
+500   | $orange       | ff8a00 | 255, 138, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_500.png)
+600   | $             | f47300 | 244, 115, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_600.png)
+700   | $             | e96a03 | 233, 106, 3   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_700.png)
+
+_Blue Primary_
+
+Value | Code          | HEX    | RGB           | Color
+------|---------------|--------|---------------|--------
+500   | $blue         | 008aff | 0, 138, 255   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_500.png)
+600   | $             | 0078ff | 0, 120, 255   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_600.png)
+700   | $             | 0060ff | 0, 96, 255    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_700.png)
 
 _Secondary colors_  
 
-Name              | Code          | HEX    | RGB           | Color
-------------------|---------------|--------|---------------|--------
-Accent            | $accent       | f47300 | 244, 115, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/an.png)
-Red               | $red          | e74c3c | 231, 76, 60   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red.png)
-Green             | $green        | 2ecc71 | 46, 204, 113  | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green.png)
-Darkest grey      | $greyDarkest  | 262626 | 38, 38, 38    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/dg1.png)
-Darker grey       | $greyDarker   | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg1.png)
-Dark grey         | $greyDark     | 999999 | 153, 153, 153 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg2.png)
-Medium grey       | $greyMedium   | cccccc | 204, 204, 204 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/mg3.png)
-Light grey        | $greyLight    | dedede | 222, 222, 222 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg1.png)
-Lighter grey      | $greyLighter  | e6e6e6 | 230, 230, 230 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg2.png)
-Lightest grey     | $greyLightest | f7f7f7 | 247, 247, 247 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/lg3.png)
-White             | $white        | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/white.png)
-Background        | $bgColor      | f2f2f2 | 242, 242, 242 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/bg.png)
+Value | Code          | HEX    | RGB           | Color
+------|---------------|--------|---------------|--------
+500   | $red          | f44336 | 244, 67, 54   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/red_500.png)
+500   | $green        | 66bb6a | 102, 187, 106 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/green_500.png)
 
+_Greys_
+
+Value | Code          | HEX    | RGB           | Color
+------|---------------|--------|---------------|--------
+000   | $white        | ffffff | 255, 255, 255 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_000.png)
+100   | $greyLightest | f5f5f5 | 245, 245, 245 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_100.png)
+200   | $greyLighter  | eeeeee | 238, 238, 238 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_200.png)
+300   | $greyLight    | e0e0e0 | 224, 224, 224 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_300.png)
+400   | $greyMedium   | bdbdbd | 189, 189, 189 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_400.png)
+500   | $greyDark     | 9e9e9e | 158, 158, 158 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_500.png)
+600   | $greyDarker   | 757575 | 117, 117, 117 | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_600.png)
+900   | $greyDarkest  | 212121 | 33, 33, 33    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/grey_900.png)
 
 ### 1.2 Logos <a name="logos"></a>
 Logos are primarily in .svg and .png formats.  

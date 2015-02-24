@@ -116,11 +116,11 @@ Name              | Icon
 ------------------|--------
 achievement       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/achievement.png)
 add               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/add.png)
-achievement       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/add-cirlce.png)
+add-circle        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/add-circle.png)
 ads               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
 arrow-back        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-back.png)
 arrow-down        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-down.png)
-arrow-forward     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-right.png)
+arrow-forward     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-forward.png)
 arrow-up          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-up.png)
 badge             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/badge.png)
 calendar          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)

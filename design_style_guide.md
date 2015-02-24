@@ -96,80 +96,91 @@ To be used globally across the Clay.io site and apps
 
 ###### Font Sizing
 
-Base scaling: 1rem = 10px  
-
-Size      | Name
-----------|--------
-1.2rem    | Small
-1.6rem    | Medium
-2.4rem    | Large
-3.6rem    | XLarge
-4.2rem    | XXLarge
+Name      | Weight      | Size
+----------|-------------|----------
+Display 4 | 300 Light   | 112px
+Display 3 | 400 Regular | 56px
+Display 2 | 400 Regular | 45px
+Display 1 | 400 Regular | 34px
+Headline  | 400 Regular | 35px
+Title     | 500 Medium  | 20px
+Subhead   | 400 Regular | 16px
+Body 2    | 500 Medium  | 14px
+Body 1    | 400 Regular | 14px
+Caption   | 400 Regular | 12px
+Button    | 500 Medium  | 14px
 
 #### Icon Font
 
-Name                  | Unicode   | Icon
-----------------------|-----------|--------
-icon-achievement      | 0xe80d    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/achievement.png)
-icon-ads              | 0xe836    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
-icon-arrow-down       | 0xe82d    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-down.png)
-icon-arrow-left       | 0xe833    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-left.png)
-icon-arrow-right      | 0xe834    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-right.png)
-icon-arrow-up         | 0xe82e    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-up.png)
-icon-back-arrow       | 0xe804    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/back-arrow.png)
-icon-badge            | 0xe80e    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/badge.png)
-icon-calendar         | 0xe830    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)
-icon-challenge        | 0xe80c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/challenge.png)
-icon-chart            | 0xe827    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chart.png)
-icon-chat             | 0xe811    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chat.png)
-icon-check            | 0xe808    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/check.png)
-icon-chevron-left     | 0xe806    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chevron-left.png)
-icon-chevron-right    | 0xe807    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chevron-right.png)
-icon-close            | 0xe805    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/close.png)
-icon-cloud            | 0xe817    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/cloud.png)
-icon-cloud-upload     | 0xe818    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/cloud-upload.png)
-icon-controller       | 0xe812    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/controller.png)
-icon-credit-card      | 0xe828    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/credit-card.png)
-icon-crown            | 0xe80f    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/crown.png)
-icon-delete           | 0xe815    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/delete.png)
-icon-dev-console      | 0xe838    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/dev-console.png)
-icon-dice             | 0xe810    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/dice.png)
-icon-doc              | 0xe83b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/doc.png)
-icon-edit             | 0xe816    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/edit.png)
-icon-female           | 0xe82a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/female.png)
-icon-folder           | 0xe81c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/folder.png)
-icon-globe            | 0xe823    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/globe.png)
-icon-group            | 0xe82f    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/group.png)
-icon-happy            | 0xe835    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/happy.png)
-icon-heart            | 0xe826    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/heart.png)
-icon-help             | 0xe809    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help.png)
-icon-help-alt         | 0xe82b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help-alt.png)
-icon-home             | 0xe822    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/home.png)
-icon-link             | 0xe825    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/link.png)
-icon-locked           | 0xe821    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/locked.png)
-icon-logout           | 0xe820    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/logout.png)
-icon-mail             | 0xe81b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/mail.png)
-icon-male             | 0xe829    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/male.png)
-icon-market           | 0xe803    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/market.png)
-icon-menu             | 0xe82c    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/menu.png)
-icon-music            | 0xe839    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/music.png)
-icon-notification     | 0xe81d    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/notification.png)
-icon-package          | 0xe81a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/package.png)
-icon-photos           | 0xe83a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/photos.png)
-icon-play             | 0xe831    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play.png)
-icon-play-circle      | 0xe832    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play-circle.png)
-icon-refresh          | 0xe80a    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/refresh.png)
-icon-save             | 0xe814    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/save.png)
-icon-search           | 0xe81e    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/search.png)
-icon-settings         | 0xe81f    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/settings.png)
-icon-share            | 0xe802    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/share.png)
-icon-smartphone       | 0xe813    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/smartphone.png)
-icon-star             | 0xe800    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/star.png)
-icon-star-half-fill   | 0xe801    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/star-half-fill.png)
-icon-stats            | 0xe837    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/stats.png)
-icon-ticket           | 0xe80b    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ticket.png)
-icon-time             | 0xe824    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/time.png)
-icon-zipped           | 0xe819    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/zipped.png)
+Name              | Icon
+------------------|--------
+achievement       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/achievement.png)
+add               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/add.png)
+achievement       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/add-cirlce.png)
+ads               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ads.png)
+arrow-back        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-back.png)
+arrow-down        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-down.png)
+arrow-forward     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-right.png)
+arrow-up          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/arrow-up.png)
+badge             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/badge.png)
+calendar          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/calendar.png)
+challenge         | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/challenge.png)
+chat              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chat.png)
+check             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/check.png)
+chevron-left      | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chevron-left.png)
+chevron-right     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/chevron-right.png)
+close             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/close.png)
+close-circle      | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/close-circle.png)
+cloud             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/cloud.png)
+cloud-upload      | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/cloud-upload.png)
+computer          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/computer.png)
+controller        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/controller.png)
+credit-card       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/credit-card.png)
+crown             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/crown.png)
+delete            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/delete.png)
+dev               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/dev.png)
+dice              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/dice.png)
+doc               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/doc.png)
+edit              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/edit.png)
+folder            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/folder.png)
+globe             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/globe.png)
+grid              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/grid.png)
+group             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/group.png)
+happy             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/happy.png)
+heart             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/heart.png)
+help              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/help.png)
+home              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/home.png)
+info              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/info.png)
+link              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/link.png)
+lock              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/lock.png)
+mail              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/mail.png)
+menu              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/menu.png)
+music             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/music.png)
+notifications     | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/notifications.png)
+package           | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/package.png)
+photos            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/photos.png)
+play              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play.png)
+play-circle       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/play-circle.png)
+profile           | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/profile.png)
+refresh           | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/refresh.png)
+save              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/save.png)
+search            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/search.png)
+settings          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/settings.png)
+share             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/share.png)
+smartphone        | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/smartphone.png)
+star              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/star.png)
+star-half         | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/star-half.png)
+stats             | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/stats.png)
+ticket            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/ticket.png)
+time              | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/time.png)
+zipped            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/zipped.png)
+facebook          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/facebook.png)
+github            | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/github.png)
+google-plus       | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/google-plus.png)
+kik               | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/kik.png)
+linkedin          | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/linkedin.png)
+twitter           | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/twitter.png)
+youtube           | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/site_styling/icons/youtube.png)
 
 ### 2.2 Element Styling <a name="elements"></a>  
 

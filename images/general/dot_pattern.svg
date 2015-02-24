@@ -6,8 +6,8 @@
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Artboard-1" sketch:type="MSArtboardGroup" fill="#F47300">
-            <circle id="Oval-1" sketch:type="MSShapeGroup" cx="2" cy="2" r="2"></circle>
-            <circle id="Oval-2" sketch:type="MSShapeGroup" cx="8" cy="8" r="2"></circle>
+            <circle id="Oval-1" sketch:type="MSShapeGroup" cx="2.5" cy="2.5" r="2.5"></circle>
+            <circle id="Oval-2" sketch:type="MSShapeGroup" cx="7.5" cy="7.5" r="2.5"></circle>
         </g>
     </g>
 </svg>

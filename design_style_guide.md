@@ -110,7 +110,7 @@ Body 1    | 400 Regular | 14px
 Caption   | 400 Regular | 12px
 Button    | 500 Medium  | 14px
 
-#### Icon Font
+#### Icons
 
 Name              | Icon
 ------------------|--------

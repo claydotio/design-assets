@@ -21,6 +21,7 @@ _Orange Primary_
 
 Value | Code          | HEX    | RGB           | Color
 ------|---------------|--------|---------------|--------
+200   | $             | ffcc80 | 255, 204, 128 | 
 500   | $orange       | ff8a00 | 255, 138, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_500.png)
 600   | $             | f47300 | 244, 115, 0   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_600.png)
 700   | $             | e96a03 | 233, 106, 3   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/orange_700.png)
@@ -29,6 +30,7 @@ _Blue Primary_
 
 Value | Code          | HEX    | RGB           | Color
 ------|---------------|--------|---------------|--------
+200   | $             | 90caf9 | 144, 202, 249 |
 500   | $blue         | 008aff | 0, 138, 255   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_500.png)
 600   | $             | 0078ff | 0, 120, 255   | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_600.png)
 700   | $             | 0060ff | 0, 96, 255    | ![Alt text](https://github.com/claydotio/design-assets/blob/master/style_guide_references/branding/colors/blue_700.png)

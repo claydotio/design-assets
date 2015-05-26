@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="112px" viewBox="0 0 512 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>tap_prompt_c</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Revisions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Messenger-share---D" sketch:type="MSArtboardGroup" transform="translate(0.000000, -512.000000)">
+            <g id="tap_prompt_c" sketch:type="MSLayerGroup" transform="translate(0.000000, 512.000000)">
+                <rect id="Rectangle-249" fill="#03A9F4" sketch:type="MSShapeGroup" x="0" y="0" width="512" height="112"></rect>
+                <path d="M49.4545455,40.0145455 L34.9090909,40 C33.3090909,40 32,41.3090909 32,42.9090909 L32,69.0909091 C32,70.6909091 33.3090909,72 34.9090909,72 L49.4545455,72 C51.0545455,72 52.3636364,70.6909091 52.3636364,69.0909091 L52.3636364,42.9090909 C52.3636364,41.3090909 51.0545455,40.0145455 49.4545455,40.0145455 L49.4545455,40.0145455 Z M49.4545455,66.1818182 L34.9090909,66.1818182 L34.9090909,45.8181818 L49.4545455,45.8181818 L49.4545455,66.1818182 L49.4545455,66.1818182 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <path d="M480,54 L455.66,54 L466.84,42.82 L464,40 L448,56 L464,72 L466.82,69.18 L455.66,58 L480,58 L480,54 L480,54 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup" transform="translate(464.000000, 56.000000) rotate(-90.000000) translate(-464.000000, -56.000000) "></path>
+                <text id="GUESS-WHAT-I’VE-DRAW" sketch:type="MSTextLayer" font-family="Delius Unicase" font-size="24" font-weight="bold" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="97.392" y="50">GUESS WHAT I’VE DRAWN</tspan>
+                    <tspan x="132.828" y="81">&amp; DRAW YOUR OWN</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

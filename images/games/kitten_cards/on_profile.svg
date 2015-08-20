@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="296px" height="200px" viewBox="0 0 296 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>on_profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="on_profile" sketch:type="MSArtboardGroup">
+            <path d="M148,176 C196.601058,176 236,136.601058 236,88 C236,39.398942 196.601058,0 148,0 C99.398942,0 60,39.398942 60,88 C60,136.601058 99.398942,176 148,176 Z M148,116 C164.575,116 178,102.575 178,86 C178,69.425 164.575,56 148,56 C131.425,56 118,69.425 118,86 C118,102.575 131.425,116 148,116 Z M89.7617952,153.973452 C97.6958377,138.691292 130.481813,131 148,131 C165.518187,131 198.304162,138.691292 206.238205,153.973452 C190.721547,167.681252 170.332247,176 148,176 C125.667753,176 105.278453,167.681252 89.7617891,153.973444 L89.7617952,153.973452 Z" id="Oval-39" fill="#E65100" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-39-Copy" stroke="#E65100" stroke-width="8" sketch:type="MSShapeGroup" cx="148" cy="88" r="88"></circle>
+        </g>
+    </g>
+</svg>

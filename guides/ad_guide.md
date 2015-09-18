@@ -22,10 +22,10 @@ There are 4 placement configurations available.
 
 Example | Title
 --------|------------
-![Alt text](https://github.com/claydotio/design-assets/blob/master/ad_guide_references/ban_top.png) | Banner Top
-![Alt text](https://github.com/claydotio/design-assets/blob/master/ad_guide_references/ban_bttm.png) | Banner Bottom
-![Alt text](https://github.com/claydotio/design-assets/blob/master/ad_guide_references/int_port.png) | Interstitial Portrait
-![Alt text](https://github.com/claydotio/design-assets/blob/master/ad_guide_references/int_land.png) | Interstitial Landscape
+![Alt text](https://github.com/claydotio/design-assets/blob/master/guides/ad_guide_references/ban_top.png) | Banner Top
+![Alt text](https://github.com/claydotio/design-assets/blob/master/guides/ad_guide_references/ban_bttm.png) | Banner Bottom
+![Alt text](https://github.com/claydotio/design-assets/blob/master/guides/ad_guide_references/int_port.png) | Interstitial Portrait
+![Alt text](https://github.com/claydotio/design-assets/blob/master/guides/ad_guide_references/int_land.png) | Interstitial Landscape
 
 
 Banner advertisements will always align to the very top or bottom of the view.
@@ -51,7 +51,7 @@ Do Not:
   - Obstruct buttons or icons with ads
 
 Do:
-  
+
   - Provide adequate padding between ads and in-game content
 
 ##### Interstitials  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="213px" height="272px" viewBox="0 0 213 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>Photo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.21 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Fat-cats" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Burger" sketch:type="MSArtboardGroup" transform="translate(-56.000000, -58.000000)" filter="url(#filter-1)" fill="#000000">
+            <g id="burger" sketch:type="MSLayerGroup" transform="translate(50.000000, 50.000000)">
+                <path d="M206.581627,274 C214.169238,246.423202 215,212.144995 215,175 C215,83.8730163 169.109187,10 112.5,10 C55.8908131,10 10,83.8730163 10,175 C10,212.144995 10.830762,246.423202 18.4183726,274 L206.581627,274 L206.581627,274 Z" id="Photo" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

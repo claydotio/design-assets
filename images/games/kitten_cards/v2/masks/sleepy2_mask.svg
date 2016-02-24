@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="233px" height="358px" viewBox="0 0 233 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>sleepy2_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sleepy2_mask" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M4,339.509578 C4,346.413229 9.59562152,352 16.4981705,352 L216.50183,352 C223.410136,352 229,346.399873 229,339.491767 L229,14.5082332 C229,7.60382598 223.400635,2 216.493468,2 L44.4070312,2 C40.8712791,2.032549 37.3507135,3.89052199 35.5326392,7.57434289 L28.4764572,21.8717292 L12.6282083,24.215386 C7.37785121,24.9783076 4.14636362,29.3830153 4.05715995,33.9719951 L4,339.509578 Z" id="Card" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

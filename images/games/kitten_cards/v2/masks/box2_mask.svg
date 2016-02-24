@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="233px" height="358px" viewBox="0 0 233 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>box2_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="box2_mask" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M219,252 L219,14.5040093 C219,7.60015333 213.405396,2 206.504103,2 L26.4958971,2 C19.589573,2 14,7.59823566 14,14.5040093 L14,252 L5.99657649,252 C4.89481003,252 4,252.894328 4,253.997538 L4,350.002462 C4,351.104949 4.89389774,352 5.99657649,352 L227.003424,352 C228.10519,352 229,351.105672 229,350.002462 L229,253.997538 C229,252.895051 228.106102,252 227.003424,252 L219,252 L219,252 Z" id="Card" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

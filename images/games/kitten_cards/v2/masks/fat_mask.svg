@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="233px" height="358px" viewBox="0 0 233 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>fat_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="fat_mask" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M4,283.500874 L4,339.499126 C4,346.400584 9.59562152,352 16.4981705,352 L216.50183,352 C223.410136,352 229,346.403168 229,339.499126 L229,283.500874 C229,279.161555 226.787874,275.336973 223.429646,273.095313 C229,245.513314 229,212.490424 229,177 C229,80.3501688 178.632034,2 116.5,2 C54.3679656,2 4,80.3501688 4,177 C4,212.489531 4,245.511652 9.56993344,273.09323 C6.21077789,275.334161 4,279.159019 4,283.500874 Z" id="Card" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

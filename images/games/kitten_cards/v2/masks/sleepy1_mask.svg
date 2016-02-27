@@ -4,9 +4,9 @@
     <title>sleepy1_mask</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+    <g id="Masks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="sleepy1_mask" sketch:type="MSArtboardGroup" fill="#000000">
-            <rect id="Card" sketch:type="MSShapeGroup" x="4" y="2" width="225" height="350" rx="12.5"></rect>
+            <path d="M216.502094,2 C223.404497,2 229,7.60382598 229,14.5082332 L229,339.491767 C229,346.399873 223.410136,352 216.50183,352 L16.4981705,352 C9.59562152,352 4,346.404813 4,339.499909 L4,42 C4,19.90861 21.90861,2 44,2 L216.502094,2 Z" id="Card" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

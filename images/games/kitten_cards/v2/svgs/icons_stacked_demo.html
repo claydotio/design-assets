@@ -1,0 +1,419 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Stacked SVG Demo</title>
+<link href='http://fonts.googleapis.com/css?family=Roboto:500' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400italic' rel='stylesheet' type='text/css'>
+<style>
+	body {
+		margin: 0 auto;
+		padding: 0;
+		background-color: #f5f5f5;
+		font-size: 10px;
+		font-family: 'Roboto', sans-serif;
+	}
+	.header {
+		width: 100%;
+		height: 112px;
+		background-color: #00BCD4;
+		margin-bottom: 32px;
+		box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.15);
+	}
+	h1 {
+		font-size: 2em;
+		line-height: 20px;
+		padding: 72px 0 0 24px;
+		margin: 0;
+		color: #fff;
+	}
+	.date {
+		padding-left: 24px;
+		font-size: 14px;
+		font-weight: 400;
+		font-style: italic;
+		font-family: 'Roboto Condensed', sans-serif;
+	}
+	.container {
+		width: 100%;
+		margin: 0 auto;
+		padding: 24px;
+		display: block;
+	}
+	.item {
+		float: left;
+		margin: 8px;
+		padding: 16px;
+		width: 96px;
+		-webkit-transition: background-color 0.4s cubic-bezier(0.4,0,0.2,1);
+		-moz-transition: background-color 0.4s cubic-bezier(0.4,0,0.2,1);
+		-o-transition: background-color 0.4s cubic-bezier(0.4,0,0.2,1);
+		-webkit-transition: box-shadow 0.2s cubic-bezier(0.4,0,0.2,1);
+		-moz-transition: box-shadow 0.2s cubic-bezier(0.4,0,0.2,1);
+		-o-transition: box-shadow 0.2s cubic-bezier(0.4,0,0.2,1);
+	}
+	.item:hover {
+		border-radius: 3px;
+		background-color: #fff;
+		box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.15);
+	}
+	.icon {
+		width: 48px;
+		margin: 0 auto;
+	}
+	.title {
+		margin: 0 auto;
+		padding-top: 8px;
+		font-size: 12px;
+		font-family: 'Roboto Condensed', sans-serif;
+		color: #757575;
+		text-align: center;
+	}
+	.clear {
+		clear: both;
+	}
+</style>
+</head>
+
+<body>
+
+<div class="header">
+	<h1>Stacked SVG icon demo</h1>
+</div>
+
+<div class="date">Last updated: Feb 29, 2016</div>
+
+<div class="container">
+	<div class="item">
+      <div class="icon"><img src="icons_stacked.svg#ic_add" width="48px" height="48px" title="ic_add"></div>
+			<div class="title">add</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_add_circle" width="48px" height="48px" title="ic_add_circle"></div>
+			<div class="title">add circle</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_add_friend" width="48px" height="48px" title="ic_add_friend"></div>
+			<div class="title">add friend</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_add_friend" width="48px" height="48px" title="ic_add_friend"></div>
+			<div class="title">add friend</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_add_sticker" width="48px" height="48px" title="ic_add_sticker"></div>
+			<div class="title">add sticker</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_award" width="48px" height="48px" title="ic_award"></div>
+			<div class="title">award</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_back" width="48px" height="48px" title="ic_back"></div>
+			<div class="title">back</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_block" width="48px" height="48px" title="ic_block"></div>
+			<div class="title">block</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_cat" width="48px" height="48px" title="ic_cat"></div>
+			<div class="title">cat</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_chevron_left" width="48px" height="48px" title="ic_chevron_left"></div>
+			<div class="title">chevron left</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_chevron_right" width="48px" height="48px" title="ic_chevron_right"></div>
+			<div class="title">chevron right</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_chat" width="48px" height="48px" title="ic_chat"></div>
+			<div class="title">chat</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_chat_bubble" width="48px" height="48px" title="ic_chat_bubble"></div>
+			<div class="title">chat bubble</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_check" width="48px" height="48px" title="ic_check"></div>
+			<div class="title">check</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_clear" width="48px" height="48px" title="ic_clear"></div>
+			<div class="title">clear</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_close" width="48px" height="48px" title="ic_close"></div>
+			<div class="title">close</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_collection" width="48px" height="48px" title="ic_collection"></div>
+			<div class="title">collection</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_comment" width="48px" height="48px" title="ic_comment"></div>
+			<div class="title">comment</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_cp" width="48px" height="48px" title="ic_cp"></div>
+			<div class="title">cp</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_crew" width="48px" height="48px" title="ic_crew"></div>
+			<div class="title">crew</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_delete" width="48px" height="48px" title="ic_delete"></div>
+			<div class="title">delete</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_dev" width="48px" height="48px" title="ic_dev"></div>
+			<div class="title">dev</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_dog" width="48px" height="48px" title="ic_dog"></div>
+			<div class="title">dog</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_edit" width="48px" height="48px" title="ic_edit"></div>
+			<div class="title">edit</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_email" width="48px" height="48px" title="ic_email"></div>
+			<div class="title">email</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_expand_less" width="48px" height="48px" title="ic_expand_less"></div>
+			<div class="title">expand less</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_expand_more" width="48px" height="48px" title="ic_expand_more"></div>
+			<div class="title">expand more</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_facebook" width="48px" height="48px" title="ic_facebook"></div>
+			<div class="title">facebook</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_feedback" width="48px" height="48px" title="ic_feedback"></div>
+			<div class="title">feedback</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_feedback" width="48px" height="48px" title="ic_feedback"></div>
+			<div class="title">feedback</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_filter" width="48px" height="48px" title="ic_filter"></div>
+			<div class="title">filter</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_focus" width="48px" height="48px" title="ic_focus"></div>
+			<div class="title">focus</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_forward" width="48px" height="48px" title="ic_forward"></div>
+			<div class="title">forward</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_friends" width="48px" height="48px" title="ic_friends"></div>
+			<div class="title">friends</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_global" width="48px" height="48px" title="ic_global"></div>
+			<div class="title">global</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_gold" width="48px" height="48px" title="ic_gold"></div>
+			<div class="title">global</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_home" width="48px" height="48px" title="ic_home"></div>
+			<div class="title">global</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_image" width="48px" height="48px" title="ic_image"></div>
+			<div class="title">image</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_install" width="48px" height="48px" title="ic_install"></div>
+			<div class="title">install</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_leave" width="48px" height="48px" title="ic_leave"></div>
+			<div class="title">leave</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_lens" width="48px" height="48px" title="ic_lens"></div>
+			<div class="title">lens</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_light" width="48px" height="48px" title="ic_light"></div>
+			<div class="title">light</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_link" width="48px" height="48px" title="ic_link"></div>
+			<div class="title">link</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_lock" width="48px" height="48px" title="ic_lock"></div>
+			<div class="title">lock</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_menu" width="48px" height="48px" title="ic_menu"></div>
+			<div class="title">menu</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_mod" width="48px" height="48px" title="ic_mod"></div>
+			<div class="title">mod</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_new" width="48px" height="48px" title="ic_new"></div>
+			<div class="title">new</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_new_trade" width="48px" height="48px" title="ic_new_trade"></div>
+			<div class="title">new trade</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_notifications" width="48px" height="48px" title="ic_notifications"></div>
+			<div class="title">notifications</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_notifications_none" width="48px" height="48px" title="ic_notifications_none"></div>
+			<div class="title">notifications none</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_off_topic" width="48px" height="48px" title="ic_off_topic"></div>
+			<div class="title">off topic</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_palette" width="48px" height="48px" title="ic_palette"></div>
+			<div class="title">palette</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_pending" width="48px" height="48px" title="ic_pending"></div>
+			<div class="title">pending</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_poll" width="48px" height="48px" title="ic_poll"></div>
+			<div class="title">poll</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_profile" width="48px" height="48px" title="ic_profile"></div>
+			<div class="title">profile</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_quest" width="48px" height="48px" title="ic_quest"></div>
+			<div class="title">quest</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_rank_up" width="48px" height="48px" title="ic_rank_up"></div>
+			<div class="title">rank up</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_refresh" width="48px" height="48px" title="ic_refresh"></div>
+			<div class="title">refresh</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_remove_friend" width="48px" height="48px" title="ic_remove_friend"></div>
+			<div class="title">remove friend</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_reset" width="48px" height="48px" title="ic_reset"></div>
+			<div class="title">reset</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_reward" width="48px" height="48px" title="ic_reward"></div>
+			<div class="title">reward</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_rotate_left" width="48px" height="48px" title="ic_rotate_left"></div>
+			<div class="title">rotate left</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_rotate_right" width="48px" height="48px" title="ic_rotate_right"></div>
+			<div class="title">rotate right</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_score" width="48px" height="48px" title="ic_score"></div>
+			<div class="title">score</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_search" width="48px" height="48px" title="ic_search"></div>
+			<div class="title">search</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_send" width="48px" height="48px" title="ic_send"></div>
+			<div class="title">send</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_settings" width="48px" height="48px" title="ic_settings"></div>
+			<div class="title">settings</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_share" width="48px" height="48px" title="ic_share"></div>
+			<div class="title">share</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_shop" width="48px" height="48px" title="ic_shop"></div>
+			<div class="title">shop</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_star" width="48px" height="48px" title="ic_star"></div>
+			<div class="title">star</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_subtract_circle" width="48px" height="48px" title="ic_subtract_circle"></div>
+			<div class="title">subtract circle</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_suggestions" width="48px" height="48px" title="ic_suggestions"></div>
+			<div class="title">suggestions</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_time" width="48px" height="48px" title="ic_time"></div>
+			<div class="title">time</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_titanium" width="48px" height="48px" title="ic_titanium"></div>
+			<div class="title">titanium</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_trade" width="48px" height="48px" title="ic_trade"></div>
+			<div class="title">trade</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_trade_circle" width="48px" height="48px" title="ic_trade_circle"></div>
+			<div class="title">trade circle</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_twitter" width="48px" height="48px" title="ic_twitter"></div>
+			<div class="title">twitter</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_unlock" width="48px" height="48px" title="ic_unlock"></div>
+			<div class="title">unlock</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_upload" width="48px" height="48px" title="ic_upload"></div>
+			<div class="title">upload</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_vote" width="48px" height="48px" title="ic_vote"></div>
+			<div class="title">vote</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_wishlist" width="48px" height="48px" title="ic_wishlist"></div>
+			<div class="title">wishlist</div>
+	</div>
+	<div class="item">
+			<div class="icon"><img src="icons_stacked.svg#ic_wrench" width="48px" height="48px" title="ic_wrench"></div>
+			<div class="title">wrench</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+</body>
+</html>

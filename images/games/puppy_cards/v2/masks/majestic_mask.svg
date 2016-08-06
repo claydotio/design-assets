@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="233px" height="358px" viewBox="0 0 233 358" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>laser_mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="laser_mask" sketch:type="MSArtboardGroup" fill="#000000">
+            <path d="M4,64.5086829 C4,57.6003281 7.95474346,48.0452565 12.8382588,43.1617412 L45.1617412,10.8382588 C50.0429767,5.95702327 59.5934161,2 66.5000798,2 L166.49992,2 C173.403524,2 182.954743,5.95474346 187.838259,10.8382588 L220.161741,43.1617412 C225.042977,48.0429767 229,57.5933652 229,64.5086829 L229,339.491317 C229,346.399672 223.410136,352 216.50183,352 L16.4981705,352 C9.59562152,352 4,346.406635 4,339.491317 L4,64.5086829 Z" id="Card" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

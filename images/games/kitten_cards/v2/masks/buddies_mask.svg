@@ -3,7 +3,7 @@
 <desc>Created using Figma 0.90</desc>
 <g id="Canvas" figma:type="canvas">
 <mask id="mask0_outline" mask-type="alpha">
-<path d="M -2.84217e-14 -2.84217e-14L 233 -2.84217e-14L 233 358L -2.84217e-14 358L -2.84217e-14 -2.84217e-14Z" fill="#FFFFFF"/>
+<path d="M -2.84217e-14 -2.84217e-14L 233 -2.84217e-14L 233 358L -2.84217e-14 358L -2.84217e-14 -2.84217e-14Z"/>
 </mask>
 <g id="buddies_mask" style="mix-blend-mode:normal;" mask="url(#mask0_outline)" figma:type="frame">
 <g id="Card" style="mix-blend-mode:normal;" figma:type="vector-operation">

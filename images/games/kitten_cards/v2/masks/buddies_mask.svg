@@ -1,17 +1,10 @@
 <svg width="233" height="358" viewBox="0 0 233 358" version="2.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
 <title>buddies_mask</title>
 <desc>Created using Figma 0.90</desc>
-<g id="Canvas" figma:type="canvas">
-<mask id="mask0_outline" mask-type="alpha">
-<path d="M -2.84217e-14 -2.84217e-14L 233 -2.84217e-14L 233 358L -2.84217e-14 358L -2.84217e-14 -2.84217e-14Z"/>
-</mask>
-<g id="buddies_mask" style="mix-blend-mode:normal;" mask="url(#mask0_outline)" figma:type="frame">
-<g id="Card" style="mix-blend-mode:normal;" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(4 2)" style="mix-blend-mode:normal;"/>
+<defs></defs>
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+  <g id="laser_mask" fill="#000000">
+    <path transform="translate(4 2)"  id="path0_fill" d="M 200 0L 25 0C 11.1929 0 0 11.1929 0 25L 0 325C 0 338.807 11.1929 350 25 350L 200 350C 213.807 350 225 338.807 225 325L 225 25C 225 11.1929 213.807 0 200 0Z"></path>
+  </g>
 </g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" d="M 200 0L 25 0C 11.1929 0 0 11.1929 0 25L 0 325C 0 338.807 11.1929 350 25 350L 200 350C 213.807 350 225 338.807 225 325L 225 25C 225 11.1929 213.807 0 200 0Z"/>
-</defs>
 </svg>

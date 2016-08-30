@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>3400</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tic-tac-toe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3400">
+            <g id="Cinnamon-Roll" transform="translate(6.000000, 9.000000)">
+                <path d="M2.963,13.292 C2.963,4.791 10.65,1 19,1 C27.351,1 33.204,6.25 33.204,13.292 C33.204,20.823 26.433,26.928 18.082,26.928 C9.733,26.928 2.963,20.823 2.963,13.292 L2.963,13.292 Z" id="Shape" fill="#995204"></path>
+                <path d="M31.987,8 C33.288,11.042 32.987,14 32.987,14 C32.736,19.459 24.864,26 16.992,25 C9.119,24 3.287,18.707 2.996,13 C2.705,7.293 8.994,2 17.991,2 C25.489,2 29.314,6.332 29.489,9.291 C29.489,9.291 30.695,15.208 24.989,17 C19.283,18.792 10.993,16 11.993,10 C11.993,10 12.727,6.872 16.373,7.034 C16.137,7.424 16.002,7.847 16.002,8.29 C16.002,10.226 18.461,11.79 21.5,11.79 C24.537,11.79 26.998,10.226 26.998,8.29 C26.998,8.059 26.961,7.833 26.894,7.615 C26.396,5.743 23.752,3.666 16.993,4 C16.002,4 8.004,5 7.01,10.475 C7.01,10.475 5.371,19.208 16.993,21 C28.614,22.792 31.562,13.582 30.988,9.291 C30.414,5 28.488,0 17.991,0 C7.495,0 0.996,7.791 0.996,16.791 C0.996,24.29 7.481,32 17.979,32 C35.974,32 36.987,17 36.987,17 C37.236,10.958 32.979,8 31.987,8 L31.987,8 Z" id="Shape" fill="#FFB300"></path>
+                <g id="Group" transform="translate(7.000000, 5.000000)" fill="#CE8106">
+                    <circle id="Oval" cx="3.002" cy="22" r="1"></circle>
+                    <circle id="Oval" cx="1.003" cy="20" r="1"></circle>
+                    <circle id="Oval" cx="26.996" cy="13" r="1"></circle>
+                    <circle id="Oval" cx="25.996" cy="16" r="1"></circle>
+                    <circle id="Oval" cx="13" cy="1" r="1"></circle>
+                    <circle id="Oval" cx="12" cy="4" r="1"></circle>
+                    <circle id="Oval" cx="14.999" cy="3" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

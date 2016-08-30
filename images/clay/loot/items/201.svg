@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>201</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Clay-accessories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="201">
+            <g id="Dog-Tag" transform="translate(8.000000, 3.000000)">
+                <path d="M26.656,9.709 C20.868,5.771 15.874,6.002 15.874,6.002 L0.995,28.811 C0.995,28.811 2.615,33.541 8.403,37.479 C14.191,41.417 19.185,41.186 19.185,41.186 L34.064,18.377 C34.064,18.377 32.444,13.646 26.656,9.709 L26.656,9.709 Z M23,18 C21.343,18 20,16.656 20,15 C20,13.344 21.343,12 23,12 C24.657,12 26,13.344 26,15 C26,16.656 24.657,18 23,18 L23,18 Z" id="Shape" fill="#EEEEEE"></path>
+                <g id="Group" transform="translate(8.000000, 19.000000)" stroke="#EC407A" stroke-width="2">
+                    <path d="M8,0 L0,12" id="Shape"></path>
+                    <path d="M11,2 L3,14" id="Shape"></path>
+                    <path d="M10,10.001 L6,16" id="Shape"></path>
+                </g>
+                <g id="Group" transform="translate(10.000000, 0.000000)" fill="#C2185B">
+                    <path d="M9.186,41.186 C9.186,41.186 5.079,41.365 0,38.467 L0,41 C0,41 3,43.979 11,43.979 C19,43.979 22,41 22,41 L22,21.542 L9.186,41.186 L9.186,41.186 Z" id="Shape"></path>
+                    <circle id="Oval" cx="14.5" cy="1.5" r="1.5"></circle>
+                    <circle id="Oval" cx="14.5" cy="5.5" r="1.5"></circle>
+                    <circle id="Oval" cx="14.5" cy="9.5" r="1.5"></circle>
+                    <circle id="Oval" cx="14.5" cy="13.5" r="1.5"></circle>
+                </g>
+                <path d="M21.698,42.824 L32,22.001 L32,21.541 L19.186,41.186 C19.186,41.186 19.131,41.188 19.026,41.188 C18.224,41.188 14.493,41.033 10.001,38.47 L10.001,41 C10.001,41 12.983,43.957 20.922,43.978 L21.698,42.824 L21.698,42.824 Z" id="Shape" fill="#880E4F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

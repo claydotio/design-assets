@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>6500</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tic-tac-toe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6500" fill="#F44336">
+            <path d="M5,25 C5,13.954305 13.954305,5 25,5 C36.045695,5 45,13.954305 45,25 C45,36.045695 36.045695,45 25,45 C13.954305,45 5,36.045695 5,25 Z M38,25 C38,17.8202983 32.1797017,12 25,12 C17.8202983,12 12,17.8202983 12,25 C12,32.1797017 17.8202983,38 25,38 C32.1797017,38 38,32.1797017 38,25 Z" id="Oval-2"></path>
+        </g>
+    </g>
+</svg>

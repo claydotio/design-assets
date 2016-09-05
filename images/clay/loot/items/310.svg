@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>310</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3 0 0 34 6 40 12 34 9 0"></polygon>
+        <polygon id="path-3" points="2 8 8 8 10 0 0 0"></polygon>
+    </defs>
+    <g id="Clay-accessories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="310">
+            <g id="Tie" transform="translate(19.000000, 1.000000)">
+                <polygon id="Shape" fill="#455A64" points="3 8 0 42 6 48 12 42 9 8"></polygon>
+                <g id="Shape" transform="translate(0.000000, 8.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M1.2,20.8 L11.8,31.4 L12,34 L11.8,34.2 L0.9,23.4 L1.2,20.8 L1.2,20.8 Z M8.3,37.7 L9.7,36.3 L0.6,27.2 L0.4,29.8 L8.3,37.7 L8.3,37.7 Z M11.1,23.7 L1.7,14.3 L1.5,16.9 L11.4,26.8 L11.1,23.7 L11.1,23.7 Z M2,10.9 L10.7,19.6 L10.4,16.5 L2.2,8.3 L2,10.9 L2,10.9 Z M7.4,0 L4.6,0 L9.4,4.8 L9.1,1.7 L7.4,0 L7.4,0 Z M2.6,5 L10.1,12.5 L9.8,9.4 L2.8,2.4 L2.6,5 L2.6,5 Z" fill="#78909C" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Shape" fill="#263238" points="8 7 6 28 4 7"></polygon>
+                <polygon id="Shape" fill="#78909C" points="3 8 9 8 11 0 1 0"></polygon>
+                <g id="Shape" transform="translate(1.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <path d="M6.9,0 L1.4,5.5 L0.8,3.2 L4.1,0 L6.9,0 L6.9,0 Z M8.9,4.6 L9.8,0.8 L2.6,8 L5.4,8 L8.9,4.6 L8.9,4.6 Z" fill="#B0BEC5" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

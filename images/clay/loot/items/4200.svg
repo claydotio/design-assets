@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>4200</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tic-tac-toe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4200">
+            <g id="Physics" transform="translate(9.000000, 7.000000)">
+                <circle id="Oval" fill="#FFB300" cx="16" cy="18" r="3"></circle>
+                <g id="Group" stroke="#3F51B5" stroke-width="2">
+                    <path d="M16,0 C12.055,0 9.079,7.739 9.079,18 C9.079,28.262 12.055,36 16,36 C19.945,36 22.921,28.262 22.921,18 C22.921,7.739 19.945,0 16,0 L16,0 Z" id="Shape"></path>
+                    <path d="M0.416,8.999 C-1.558,12.418 3.654,18.865 12.539,23.994 C21.422,29.126 29.61,30.418 31.583,27 C33.556,23.581 28.344,17.135 19.461,12.004 C10.576,6.873 2.388,5.581 0.416,8.999 L0.416,8.999 Z" id="Shape"></path>
+                    <path d="M0.417,26.998 C2.39,30.418 10.576,29.126 19.461,23.993 C28.345,18.865 33.557,12.418 31.584,9 C29.612,5.583 21.424,6.873 12.54,12.002 C3.655,17.135 -1.557,23.581 0.417,26.998 L0.417,26.998 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>809</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Clay-accessories" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="809">
+            <g id="Necklace" transform="translate(11.000000, 3.000000)">
+                <path d="M14,44 L9,38 L14,33 L19,38 L14,44 L14,44 Z M28,16 C28,6.4 23.2,0 16,0 L12,0 C4.8,0 0,6.4 0,16 C0,24.8 6.3,32 14,32 C21.7,32 28,24.8 28,16 L28,16 Z M16,2 C24,2 25.5,10.4 25.5,15.5 C25.5,23.3 20.6,29 14,29 C7.4,29 2.5,23.1 2.5,15.4 C2.5,10.9 4,2 12,2 L16,2 L16,2 Z" id="Shape" fill="#FFB300"></path>
+                <path d="M14,33 L14,33 C13.4,33 13,32.5 13,32 L13,29 C13,28.5 13.4,28 14,28 L14,28 C14.5,28 15,28.4 15,29 L15,32 C15,32.5 14.6,33 14,33 L14,33 Z" id="Shape" fill="#FFCA28"></path>
+                <polygon id="Shape" fill="#A1887F" points="14 34 18 38 14 43 10 38"></polygon>
+                <polygon id="Shape" fill="#5D4037" points="18 38 14 43 14 38"></polygon>
+                <polygon id="Shape" fill="#D7CCC8" points="14 34 10 38 14 38 14 38"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

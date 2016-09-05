@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>3800</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tic-tac-toe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3800">
+            <g id="Radio-Active" transform="translate(6.000000, 6.000000)">
+                <circle id="XMLID_940_" fill="#607D8B" cx="19" cy="19" r="19"></circle>
+                <g id="XMLID_919_" transform="translate(4.000000, 5.000000)" fill="#FFEB3B">
+                    <path d="M20.4,14 L30,14 C30,8.4 27,3.7 22.5,0.9 L17.6,9.2 C19.3,10.4 20.4,12.1 20.4,14 L20.4,14 Z" id="XMLID_924_"></path>
+                    <path d="M12.4,9.3 L7.5,1 C3,3.5 0,8.5 0,14 L9.6,14 C9.6,12.1 10.7,10.4 12.4,9.3 L12.4,9.3 Z" id="XMLID_923_"></path>
+                    <path d="M15,19.4 C13.9,19.4 13.1,19.2 12.4,18.8 L7.5,27.1 C9.6,28.4 12.2,29 15,29 C17.8,29 20.4,28.4 22.5,27.1 L17.6,18.8 C16.9,19.2 16.1,19.4 15,19.4 L15,19.4 Z" id="XMLID_922_"></path>
+                    <g id="XMLID_920_" transform="translate(12.000000, 11.000000)">
+                        <circle id="XMLID_921_" cx="3" cy="3" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

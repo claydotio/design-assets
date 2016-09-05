@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>4000</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Tic-tac-toe" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4000" fill="#FFCDD2">
+            <g id="Like" transform="translate(3.000000, 7.000000)">
+                <path d="M32,0 C27.824,0 24.148,2.137 22,5.372 C19.851,2.137 16.176,0 12,0 C5.373,0 0,5.373 0,12 C0,23.943 22,36 22,36 C22,36 44,24.045 44,12 C44,5.373 38.627,0 32,0" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

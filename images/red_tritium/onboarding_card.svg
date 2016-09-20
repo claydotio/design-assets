@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="225px" height="132px" viewBox="0 0 225 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Graphic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M217,116.557085 C217,120.667693 213.667487,124 209.561787,124 L7.43821304,124 C3.33020141,124 0,120.667276 0,116.557085 L0,7.44291549 C0,3.33230677 3.33251326,2.40611111e-14 7.43821304,2.38097095e-14 L209.561787,-6.1882497e-15 C213.669799,-6.43979286e-15 217,3.33272438 217,7.44291549 L217,116.557085 L217,116.557085 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-4" y="-4" width="225" height="132">
+            <rect x="-4" y="-4" width="225" height="132" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="48" cy="48" r="48"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="100" height="100">
+            <rect x="-2" y="-2" width="100" height="100" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <polygon id="path-5" points="48 16.6153846 20.8 63.6923077 75.2 63.6923077"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="58.4" height="51.0769231">
+            <rect x="18.8" y="14.6153846" width="58.4" height="51.0769231" fill="white"></rect>
+            <use xlink:href="#path-5" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Onboarding---card" transform="translate(-68.000000, -193.000000)">
+            <g id="Promo" transform="translate(0.000000, 105.000000)">
+                <g id="Graphic" transform="translate(0.000000, 72.000000)">
+                    <g id="Card" transform="translate(72.000000, 20.000000)">
+                        <use stroke="#FF0926" mask="url(#mask-2)" stroke-width="8" transform="translate(108.500000, 62.000000) scale(-1, 1) translate(-108.500000, -62.000000) " xlink:href="#path-1"></use>
+                        <g id="Group" transform="translate(60.000000, 15.000000)">
+                            <use id="Oval" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+                            <use id="Shape" stroke="#FF0926" mask="url(#mask-6)" stroke-width="4" stroke-linejoin="round" xlink:href="#path-5"></use>
+                            <rect id="Rectangle-5" fill="#FF0926" x="47" y="16.6153846" width="2" height="31.3846154"></rect>
+                            <rect id="Rectangle-5-Copy-2" fill="#FF0926" transform="translate(61.610067, 55.846154) rotate(-60.000000) translate(-61.610067, -55.846154) " x="60.6100669" y="40.1538462" width="2" height="31.3846154"></rect>
+                            <rect id="Rectangle-5-Copy" fill="#FF0926" transform="translate(34.389938, 55.846154) rotate(60.000000) translate(-34.389938, -55.846154) " x="33.3899381" y="40.1538462" width="2" height="31.3846154"></rect>
+                            <rect id="Rectangle-6" fill="#FF0926" x="58.1153846" y="54.2907925" width="2" height="10.3030303"></rect>
+                            <rect id="Rectangle-6-Copy-2" fill="#FF0926" transform="translate(52.351637, 32.652641) rotate(-120.000000) translate(-52.351637, -32.652641) " x="51.3516368" y="27.5011256" width="2" height="10.3030303"></rect>
+                            <rect id="Rectangle-6-Copy" fill="#FF0926" transform="translate(32.532979, 51.905052) rotate(-240.000000) translate(-32.532979, -51.905052) " x="31.5329786" y="46.7535365" width="2" height="10.3030303"></rect>
+                        </g>
+                        <text id="MEMBER-0001" font-family="Korolev-Light, Korolev" font-size="7.44" font-weight="300" letter-spacing="1.54999994" fill="#FFFFFF">
+                            <tspan x="147.113521" y="115.5">MEMBER</tspan>
+                            <tspan x="183.52488" y="115.5" font-family="Korolev-Bold, Korolev" font-weight="bold"> </tspan>
+                            <tspan x="186.72656" y="115.5" font-family="Korolev-Heavy, Korolev" font-weight="600">0001</tspan>
+                        </text>
+                        <text id="ELITE" font-family="Korolev-Light, Korolev" font-size="7.44" font-weight="300" letter-spacing="1.54999994" fill="#FFFFFF">
+                            <tspan x="9.92" y="115.5">ELITE</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

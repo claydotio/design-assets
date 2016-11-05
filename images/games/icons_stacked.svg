@@ -10,6 +10,10 @@
         <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
       </svg>
 
+      <svg class="icon" id="ic_add_small" viewBox="0 0 16 16"><!-- Note the smaller viewbox -->
+        <path d="M13 9H9v4H7V9H3V7h4V3h2v4h4z"/>
+      </svg>
+
       <svg class="icon" id="ic_add_circle" viewBox="0 0 24 24">
         <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"/>
       </svg>
@@ -64,6 +68,10 @@
 
       <svg class="icon" id="ic_check" viewBox="0 0 24 24">
         <path d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4L9 16.2z"/>
+      </svg>
+
+      <svg class="icon" id="ic_check_small" viewBox="0 0 16 16"><!-- Note the smaller viewbox -->
+        <path d="M12.435 4L14 5.588 6.706 13 2 8.235l1.565-1.588 3.141 3.177z"/>
       </svg>
 
       <svg class="icon" id="ic_clan" viewBox="0 0 24 24">

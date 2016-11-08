@@ -11,7 +11,7 @@
     </mask>
   </defs>
   <g fill="none" fill-rule="evenodd">
-    <use stroke="#FF0926" stroke-width="8" mask="url(#c)" xlink:href="#a"/>
+    <use stroke="#fc4449" stroke-width="8" mask="url(#c)" xlink:href="#a"/>
     <use stroke="#FFFFFF" stroke-width="4" mask="url(#d)" xlink:href="#b"/>
   </g>
 </svg>

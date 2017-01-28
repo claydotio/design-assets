@@ -496,11 +496,11 @@
       </svg>
 
       <svg class="icon" id="ic_vote_down" viewBox="0 0 24 24">
-        <path d="M18 11h-4.5V7h-3v4H6l6 6z"/>
+        <path d="M22 10.8h-7.5V4h-5v6.8H2L12 21z"/>
       </svg>
 
       <svg class="icon" id="ic_vote_up" viewBox="0 0 24 24">
-        <path d="M6 13h4.5v4h3v-4H18l-6-6z"/>
+        <path d="M2 14.2h7.5V21h5v-6.8H22L12 4z"/>
       </svg>
 
       <svg class="icon" id="ic_warning" viewBox="0 0 24 24">

@@ -1,18 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="100" viewBox="0 0 500 100">
-  <g fill="none" fill-rule="evenodd"><rect width="500" height="100" fill="#000" rx="10"/>
-  <rect width="496" height="94" x="2" y="2" fill="#FA464E" rx="8"/>
-  <path fill="#000" d="M14 10h62v76H14zM424 5h66v88h-66z"/>
-  <text fill="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
-    <tspan x="0" y="24">Perfectdozen</tspan>
-  </text>
-  <text fill="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
-    <tspan x="0" y="23">Perfectdozen</tspan>
-  </text>
-  <text fill="#FFF" stroke="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
-    <tspan x="0" y="22">Perfectdozen</tspan>
-  </text>
-  <text fill="#FFF" font-family="Rubik-Medium, Rubik" font-size="14" font-weight="400" transform="translate(91 22)">
-    <tspan x="0" y="49">#PRL9PGLY · Usual Suspects</tspan>
-  </text>
-</g>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="500" height="100" fill="#000" rx="10"/>
+    <rect width="496" height="94" x="2" y="2" fill="#FA464E" rx="8"/>
+    <path fill="#000" d="M14 10h62v76H14zM424 5h66v88h-66z"/>
+    <text fill="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
+      <tspan x="0" y="24">Perfectdozen</tspan>
+    </text>
+    <text fill="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
+      <tspan x="0" y="23">Perfectdozen</tspan>
+    </text>
+    <text fill="#FFF" stroke="#000" font-family="Rubik-Bold, Rubik" font-size="24" font-weight="bold" transform="translate(91 22)">
+      <tspan x="0" y="22">Perfectdozen</tspan>
+    </text>
+    <text fill="#FFF" font-family="Rubik-Medium, Rubik" font-size="14" font-weight="400" transform="translate(91 22)">
+      <tspan x="0" y="49">#PRL9PGLY · Usual Suspects</tspan>
+    </text>
+  </g>
 </svg>
